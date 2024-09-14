@@ -2,6 +2,6 @@
   "hero": {
     "title": "Welcome to U-CAN Academy",
     "subtitle": "U-CAN Academy Mini-App",
-    "image": "./src/images/main_images/hero.jpeg"
+    "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Header%20Data/header-data/huca4.jpg"
   }
 }
