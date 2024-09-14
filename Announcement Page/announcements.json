@@ -1,0 +1,19 @@
+{
+  "announcements": [
+    {
+      "image": "https://raw.githubusercontent.com/username/data-resources-repo/main/images/scholarship.png",
+      "title": "Scholarship Opportunity",
+      "details": "Special scholarship opportunity for our community!"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/username/data-resources-repo/main/images/announcement2.png",
+      "title": "Announcement 2",
+      "details": "The Announcement 2 Detail Header goes here."
+    },
+    {
+      "image": "https://raw.githubusercontent.com/username/data-resources-repo/main/images/announcement3.png",
+      "title": "Announcement 3",
+      "details": "Details about Announcement 3."
+    }
+  ]
+}
