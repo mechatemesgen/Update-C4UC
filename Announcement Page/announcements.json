@@ -1,9 +1,9 @@
 {
   "announcements": [
     {
-      "image": "https://raw.githubusercontent.com/username/data-resources-repo/main/images/scholarship.png",
-      "title": "Scholarship Opportunity",
-      "details": "Special scholarship opportunity for our community!"
+     "title": "Scholarship Opportunity",
+     "details": "Special scholarship opportunity for our community!",
+     "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20Page/Announcement%20Card%20Thumbnials/announcement-1.jpg"
     },
     {
       "image": "https://raw.githubusercontent.com/username/data-resources-repo/main/images/announcement2.png",
