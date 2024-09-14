@@ -2,23 +2,20 @@
   "announcements": [
     {
       "title": "Scholarship Opportunity",
-      "details": "Special scholarship opportunity for our community!",
-      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20Page/Announcement%20Card%20Thumbnials/announcement-1.jpg"
+      "description1": "We're excited to announce a special scholarship opportunity for our community! Every Thursday from 11:30 PM to 12:30 PM, we will be hosting a weekly contest.",
+      "description2": "The top five winners from each contest will earn the chance to join the U-CAN Academy E-Learning Platform for free.",
+      "description3": "Mark your calendars and get ready to participate! Good luck!",
+      "image": "./src/images/card_images/weekly-contest-banner.jpg",
+      "imageAlt": "Weekly Contest Image"
     },
     {
-      "title": "AI Era U-CAN Academy",
-      "details": "The Dev Tack session with experts!",
-      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20Page/Announcement%20Card%20Thumbnials/announcement-2.jpg"
-    },
-    {
-      "title": "Scholarship Opportunity",
-      "details": "Special scholarship opportunity for our community!",
-      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20Page/Announcement%20Card%20Thumbnials/announcement-1.jpg"
-    },
-    {
-      "title": "AI Era U-CAN Academy",
-      "details": "The Dev Tack session with experts!",
-      "image": "https://github.com/mechatemesgen/Update-C4UC/blob/main/Announcement%20Page/Announcement%20Card%20Thumbnials/announcement-2.jpg"
+      "title": "Special Event",
+      "description1": "Join us for a special event happening this month...",
+      "description2": "It will be a great opportunity to...",
+      "description3": "Don't miss out!",
+      "image": "./src/images/card_images/event-banner.jpg",
+      "imageAlt": "Special Event Image"
     }
+    // Add more announcements as needed
   ]
 }

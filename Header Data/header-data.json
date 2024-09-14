@@ -1,0 +1,7 @@
+{
+  "hero": {
+    "title": "Welcome to U-CAN Academy",
+    "subtitle": "U-CAN Academy Mini-App",
+    "image": "./src/images/main_images/hero.jpeg"
+  }
+}
