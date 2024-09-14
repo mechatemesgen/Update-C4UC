@@ -5,15 +5,20 @@
      "details": "Special scholarship opportunity for our community!",
      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20Page/Announcement%20Card%20Thumbnials/announcement-1.jpg"
     },
-    {
-      "image": "https://github.com/mechatemesgen/Update-C4UC/blob/main/Announcement%20Page/Announcement%20Card%20Thumbnials/announcement-2.jpg",
-      "title": "AI Era U-CAN Academy",
-      "details": "The Dev Tack session with experts."
+     {
+     "title": "AI Era U-CAN Academy",
+     "details": "The Dev Tack session with experts!",
+     "image": "https://github.com/mechatemesgen/Update-C4UC/blob/main/Announcement%20Page/Announcement%20Card%20Thumbnials/announcement-2.jpg"
     },
-    {
-      "image": "https://raw.githubusercontent.com/username/data-resources-repo/main/images/announcement3.png",
-      "title": "Announcement 3",
-      "details": "Details about Announcement 3."
-    }
+      {
+     "title": "Scholarship Opportunity",
+     "details": "Special scholarship opportunity for our community!",
+     "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20Page/Announcement%20Card%20Thumbnials/announcement-1.jpg"
+    },
+     {
+     "title": "AI Era U-CAN Academy",
+     "details": "The Dev Tack session with experts!",
+     "image": "https://github.com/mechatemesgen/Update-C4UC/blob/main/Announcement%20Page/Announcement%20Card%20Thumbnials/announcement-2.jpg"
+    },
   ]
 }
