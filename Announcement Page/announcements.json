@@ -1,24 +1,24 @@
 {
   "announcements": [
     {
-     "title": "Scholarship Opportunity",
-     "details": "Special scholarship opportunity for our community!",
-     "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20Page/Announcement%20Card%20Thumbnials/announcement-1.jpg"
+      "title": "Scholarship Opportunity",
+      "details": "Special scholarship opportunity for our community!",
+      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20Page/Announcement%20Card%20Thumbnials/announcement-1.jpg"
     },
-     {
-     "title": "AI Era U-CAN Academy",
-     "details": "The Dev Tack session with experts!",
-     "image": "https://github.com/mechatemesgen/Update-C4UC/blob/main/Announcement%20Page/Announcement%20Card%20Thumbnials/announcement-2.jpg"
+    {
+      "title": "AI Era U-CAN Academy",
+      "details": "The Dev Tack session with experts!",
+      "image": "https://github.com/mechatemesgen/Update-C4UC/blob/main/Announcement%20Page/Announcement%20Card%20Thumbnials/announcement-2.jpg"
     },
-      {
-     "title": "Scholarship Opportunity",
-     "details": "Special scholarship opportunity for our community!",
-     "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20Page/Announcement%20Card%20Thumbnials/announcement-1.jpg"
+    {
+      "title": "Scholarship Opportunity",
+      "details": "Special scholarship opportunity for our community!",
+      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20Page/Announcement%20Card%20Thumbnials/announcement-1.jpg"
     },
-     {
-     "title": "AI Era U-CAN Academy",
-     "details": "The Dev Tack session with experts!",
-     "image": "https://github.com/mechatemesgen/Update-C4UC/blob/main/Announcement%20Page/Announcement%20Card%20Thumbnials/announcement-2.jpg"
-    },
+    {
+      "title": "AI Era U-CAN Academy",
+      "details": "The Dev Tack session with experts!",
+      "image": "https://github.com/mechatemesgen/Update-C4UC/blob/main/Announcement%20Page/Announcement%20Card%20Thumbnials/announcement-2.jpg"
+    }
   ]
 }
