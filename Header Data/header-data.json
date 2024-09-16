@@ -9,30 +9,26 @@
     {
       "id": "register-card",
       "title": "Register",
-      "detail": "Registration Detail, and step to register for U-CAN Academy E-Learning Platform.....",
-      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Header%20Data/header-data/huca4.jpg",
-      "time": "10:30 AM"
+      "detail": "Registration Detail, and steps to register for U-CAN Academy E-Learning Platform.....",
+      "image": "./src/images/card_images/placeholder.png"
     },
     {
       "id": "signup-card",
       "title": "Courses",
       "detail": "The Detail Information of the courses we offer on our e-Learning Platform...",
-      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Header%20Data/header-data/huca4.jpg",
-      "time": "11:00 AM"
+      "image": "./src/images/card_images/course_image.png"
     },
     {
       "id": "learnmore-card",
       "title": "Get Help",
-      "detail": "Contact us for any assistance or further information on U-CAN Academy.",
-      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Header%20Data/header-data/huca4.jpg",
-      "time": "12:00 PM"
+      "detail": "Find help on how to register and access your courses on U-CAN Academy.",
+      "image": "./src/images/card_images/placeholder.png"
     },
     {
       "id": "weekly-contest",
       "title": "Weekly Contest",
-      "detail": "Join our weekly contest and win exciting prizes at U-CAN Academy.",
-      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Header%20Data/header-data/huca4.jpg",
-      "time": "01:00 PM"
+      "detail": "Join the weekly contest and stand a chance to win exciting prizes.",
+      "image": "./src/images/card_images/placeholder.png"
     }
   ]
 }
