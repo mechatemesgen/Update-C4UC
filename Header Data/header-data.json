@@ -1,8 +1,37 @@
 {
   "hero": {
     "title": "Welcome to U-CAN Academy",
-    "subtitle": "Happy New Year 2017 EC, U-CAN Academy E-Learning Platform Will be Launched Soon!",
-    "detail": "Stay Tuned!",
+    "detail": "Your gateway to quality education at your fingertips!",
     "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Header%20Data/header-data/huca4.jpg"
-  }
+  },
+  "cards": [
+    {
+      "id": "register-card",
+      "title": "Register",
+      "detail": "Registration Detail, and step to register for U-CAN Academy E-Learning Platform.....",
+      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Header%20Data/header-data/huca4.jpg",
+      "time": "10:30 AM"
+    },
+    {
+      "id": "signup-card",
+      "title": "Courses",
+      "detail": "The Detail Information of the courses we offer on our e-Learning Platform...",
+      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Header%20Data/header-data/huca4.jpg",
+      "time": "11:00 AM"
+    },
+    {
+      "id": "learnmore-card",
+      "title": "Get Help",
+      "detail": "Contact us for any assistance or further information on U-CAN Academy.",
+      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Header%20Data/header-data/huca4.jpg",
+      "time": "12:00 PM"
+    },
+    {
+      "id": "weekly-contest",
+      "title": "Weekly Contest",
+      "detail": "Join our weekly contest and win exciting prizes at U-CAN Academy.",
+      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Header%20Data/header-data/huca4.jpg",
+      "time": "01:00 PM"
+    }
+  ]
 }
