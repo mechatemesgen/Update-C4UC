@@ -1,0 +1,24 @@
+{
+  "cards": [
+    {
+      "nftImage": "./src/images/card_images/register_image.png",
+      "header": "Register",
+      "detail": "Registration details and steps to register for U-CAN Academy..."
+    },
+    {
+      "nftImage": "./src/images/card_images/courses_image.png",
+      "header": "Courses",
+      "detail": "The detail information of the courses we offer on our e-Learning platform..."
+    },
+    {
+      "nftImage": "./src/images/card_images/help_image.png",
+      "header": "Get Help",
+      "detail": "Help and support details for using U-CAN Academy platform..."
+    },
+    {
+      "nftImage": "./src/images/card_images/contest_image.png",
+      "header": "Weekly Contest",
+      "detail": "Information on the weekly contests and how to participate..."
+    }
+  ]
+}
