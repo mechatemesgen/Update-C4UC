@@ -4,31 +4,5 @@
     "subtitle": "Happy New Year 2017 EC, and U-CAN Academy E-Learning Platform Will be Launched Soon!",
     "detail": "Stay Tuned!",
     "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Header%20Data/header-data/huca4.jpg"
-  },
-  "cards": [
-    {
-      "id": "register-card",
-      "title": "Register",
-      "detail": "Registration Detail, and steps to register for U-CAN Academy E-Learning Platform.....",
-      "image": "./src/images/card_images/placeholder.png"
-    },
-    {
-      "id": "signup-card",
-      "title": "Courses",
-      "detail": "The Detail Information of the courses we offer on our e-Learning Platform...",
-      "image": "./src/images/card_images/course_image.png"
-    },
-    {
-      "id": "learnmore-card",
-      "title": "Get Help",
-      "detail": "Find help on how to register and access your courses on U-CAN Academy.",
-      "image": "./src/images/card_images/placeholder.png"
-    },
-    {
-      "id": "weekly-contest",
-      "title": "Weekly Contest",
-      "detail": "Join the weekly contest and stand a chance to win exciting prizes.",
-      "image": "./src/images/card_images/placeholder.png"
-    }
-  ]
+  }
 }
