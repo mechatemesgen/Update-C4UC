@@ -21,12 +21,12 @@
     {
       "id": 4,
       "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Home%20Page%20NFT/home-page-nft/f2.jpg",
-      "title": "Announcement 4",
-      "details": "The Announcement 4 Detail Header goes here."
+      "title": "Welcome Program",
+      "details": "Welcome to our E-Learning Platform."
     },
     {
       "id": 5,
-      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/nft5.png",
+      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Home%20Page%20NFT/home-page-nft/f2.jpg",
       "title": "Announcement 5",
       "details": "The Announcement 5 Detail Header goes here."
     },
@@ -38,26 +38,26 @@
     },
     {
       "id": 7,
-      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/nft5.png",
-      "title": "Announcement 5",
-      "details": "The Announcement 5 Detail Header goes here."
+      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Home%20Page%20NFT/home-page-nft/f2.jpg",
+      "title": "Support Team",
+      "details": "Get help form out help desk team."
     },
     {
       "id": 8,
-      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/nft4.png",
-      "title": "Announcement 4",
-      "details": "The Announcement 4 Detail Header goes here."
+      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Home%20Page%20NFT/home-page-nft/f2.jpg",
+      "title": "Announcement 8",
+      "details": "The Announcement 8 Detail Header goes here."
     },
     {
       "id": 9,
-      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/nft5.png",
-      "title": "Announcement 5",
-      "details": "The Announcement 5 Detail Header goes here."
+      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Home%20Page%20NFT/home-page-nft/f2.jpg",
+      "title": "Announcement 9",
+      "details": "The Announcement 9 Detail Header goes here."
     },
     {
       "id": 10,
-      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/nft5.png",
-      "title": "Announcement 5",
+      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Home%20Page%20NFT/home-page-nft/f2.jpg",
+      "title": "Announcement 10",
       "details": "The Announcement 5 Detail Header goes here."
     }
   ]
