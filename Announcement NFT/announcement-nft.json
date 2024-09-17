@@ -1,0 +1,65 @@
+{
+  "announcements": [
+    {
+      "id": 1,
+      "image": "./src/images/card_images/nft1.png",
+      "title": "Scholarship Opportunity",
+      "details": "Special scholarship opportunity for our community!"
+    },
+    {
+      "id": 2,
+      "image": "./src/images/card_images/nft2.png",
+      "title": "Announcement 2",
+      "details": "The Announcement 2 Detail Header goes here."
+    },
+    {
+      "id": 3,
+      "image": "./src/images/card_images/nft3.png",
+      "title": "Announcement 3",
+      "details": "The Announcement 3 Detail Header goes here."
+    },
+    {
+      "id": 4,
+      "image": "./src/images/card_images/nft4.png",
+      "title": "Announcement 4",
+      "details": "The Announcement 4 Detail Header goes here."
+    },
+    {
+      "id": 5,
+      "image": "./src/images/card_images/nft5.png",
+      "title": "Announcement 5",
+      "details": "The Announcement 5 Detail Header goes here."
+    },
+    {
+      "id": 6,
+      "image": "./src/images/card_images/nft4.png",
+      "title": "Announcement 4",
+      "details": "The Announcement 4 Detail Header goes here."
+    },
+    {
+      "id": 7,
+      "image": "./src/images/card_images/nft5.png",
+      "title": "Announcement 5",
+      "details": "The Announcement 5 Detail Header goes here."
+    },
+    {
+      "id": 8,
+      "image": "./src/images/card_images/nft4.png",
+      "title": "Announcement 4",
+      "details": "The Announcement 4 Detail Header goes here."
+    },
+    {
+      "id": 9,
+      "image": "./src/images/card_images/nft5.png",
+      "title": "Announcement 5",
+      "details": "The Announcement 5 Detail Header goes here."
+    },
+    {
+      "id": 10,
+      "image": "./src/images/card_images/nft5.png",
+      "title": "Announcement 5",
+      "details": "The Announcement 5 Detail Header goes here."
+    }
+    // Add more announcements as needed
+  ]
+}
