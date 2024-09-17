@@ -2,64 +2,63 @@
   "announcements": [
     {
       "id": 1,
-      "image": "https://github.com/mechatemesgen/Update-C4UC/blob/main/Announcement%20NFT/Images/huca3.jpg",
+      "image": "https://github.com/mechatemesgen/Update-C4UC/raw/main/Announcement%20NFT/Images/huca3.jpg",
       "title": "Scholarship Opportunity",
       "details": "Special scholarship opportunity for our community!"
     },
     {
       "id": 2,
-      "image": "https://github.com/mechatemesgen/Update-C4UC/blob/main/Announcement%20NFT/Images/huca3.jpg",
+      "image": "https://github.com/mechatemesgen/Update-C4UC/raw/main/Announcement%20NFT/Images/huca3.jpg",
       "title": "Hello 4 Test",
       "details": "This is for test."
     },
     {
       "id": 3,
-      "image": "./src/images/card_images/nft3.png",
+      "image": "https://github.com/mechatemesgen/Update-C4UC/raw/main/Announcement%20NFT/Images/nft3.png",
       "title": "Announcement 3",
       "details": "The Announcement 3 Detail Header goes here."
     },
     {
       "id": 4,
-      "image": "./src/images/card_images/nft4.png",
+      "image": "https://github.com/mechatemesgen/Update-C4UC/raw/main/Announcement%20NFT/Images/nft4.png",
       "title": "Announcement 4",
       "details": "The Announcement 4 Detail Header goes here."
     },
     {
       "id": 5,
-      "image": "./src/images/card_images/nft5.png",
+      "image": "https://github.com/mechatemesgen/Update-C4UC/raw/main/Announcement%20NFT/Images/nft5.png",
       "title": "Announcement 5",
       "details": "The Announcement 5 Detail Header goes here."
     },
     {
       "id": 6,
-      "image": "./src/images/card_images/nft4.png",
+      "image": "https://github.com/mechatemesgen/Update-C4UC/raw/main/Announcement%20NFT/Images/nft4.png",
       "title": "Announcement 4",
       "details": "The Announcement 4 Detail Header goes here."
     },
     {
       "id": 7,
-      "image": "./src/images/card_images/nft5.png",
+      "image": "https://github.com/mechatemesgen/Update-C4UC/raw/main/Announcement%20NFT/Images/nft5.png",
       "title": "Announcement 5",
       "details": "The Announcement 5 Detail Header goes here."
     },
     {
       "id": 8,
-      "image": "./src/images/card_images/nft4.png",
+      "image": "https://github.com/mechatemesgen/Update-C4UC/raw/main/Announcement%20NFT/Images/nft4.png",
       "title": "Announcement 4",
       "details": "The Announcement 4 Detail Header goes here."
     },
     {
       "id": 9,
-      "image": "./src/images/card_images/nft5.png",
+      "image": "https://github.com/mechatemesgen/Update-C4UC/raw/main/Announcement%20NFT/Images/nft5.png",
       "title": "Announcement 5",
       "details": "The Announcement 5 Detail Header goes here."
     },
     {
       "id": 10,
-      "image": "./src/images/card_images/nft5.png",
+      "image": "https://github.com/mechatemesgen/Update-C4UC/raw/main/Announcement%20NFT/Images/nft5.png",
       "title": "Announcement 5",
       "details": "The Announcement 5 Detail Header goes here."
     }
-
   ]
 }
