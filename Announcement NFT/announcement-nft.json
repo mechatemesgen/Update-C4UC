@@ -2,13 +2,13 @@
   "announcements": [
     {
       "id": 1,
-      "image": "./src/images/card_images/nft1.png",
+      "image": "https://github.com/mechatemesgen/Update-C4UC/blob/main/Announcement%20NFT/Images/huca3.jpg",
       "title": "Scholarship Opportunity",
       "details": "Special scholarship opportunity for our community!"
     },
     {
       "id": 2,
-      "image": "./src/images/card_images/nft2.png",
+      "image": "https://github.com/mechatemesgen/Update-C4UC/blob/main/Announcement%20NFT/Images/huca3.jpg",
       "title": "Announcement 2",
       "details": "The Announcement 2 Detail Header goes here."
     },
