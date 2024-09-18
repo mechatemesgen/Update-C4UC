@@ -8,7 +8,7 @@
     },
     {
       "id": 2,
-      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/huca3.jpg",
+      "image": "https://github.com/mechatemesgen/Update-C4UC/blob/main/Screen%20Splash/Splash_Screen/logo.png",
       "title": "Hello 4 Test",
       "details": "This is for test."
     },
@@ -26,7 +26,7 @@
     },
     {
       "id": 5,
-      "image": "https://github.com/mechatemesgen/Update-C4UC/blob/main/Header%20Data/header-data/huca5.jpg",
+      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/huca3.jpg",
       "title": "Announcement 5",
       "details": "The Announcement 5 Detail Header goes here."
     },
