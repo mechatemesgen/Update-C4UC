@@ -2,64 +2,63 @@
   "announcements": [
     {
       "id": 1,
-      "image": "./src/images/card_images/nft1.png",
+      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/huca3.jpg",
       "title": "Scholarship Opportunity",
       "details": "Special scholarship opportunity for our community!"
     },
     {
       "id": 2,
-      "image": "./src/images/card_images/nft2.png",
-      "title": "Announcement 2",
-      "details": "The Announcement 2 Detail Header goes here."
+      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Screen%20Splash/Splash_Screen/splash4.jpg",
+      "title": "U-CAN Academy",
+      "details": "This is for test."
     },
     {
       "id": 3,
-      "image": "./src/images/card_images/nft3.png",
-      "title": "Announcement 3",
-      "details": "The Announcement 3 Detail Header goes here."
+      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Home%20Page%20NFT/home-page-nft/f2.jpg",
+      "title": "Techinichal Issue!",
+      "details": "Techinichal Issue."
     },
     {
       "id": 4,
-      "image": "./src/images/card_images/nft4.png",
-      "title": "Announcement 4",
-      "details": "The Announcement 4 Detail Header goes here."
+      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Home%20Page%20NFT/home-page-nft/f2.jpg",
+      "title": "Welcome Program",
+      "details": "Welcome to our E-Learning Platform."
     },
     {
       "id": 5,
-      "image": "./src/images/card_images/nft5.png",
+      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/huca3.jpg",
       "title": "Announcement 5",
       "details": "The Announcement 5 Detail Header goes here."
     },
     {
       "id": 6,
-      "image": "./src/images/card_images/nft4.png",
+      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Home%20Page%20NFT/home-page-nft/f2.jpg",
       "title": "Announcement 4",
       "details": "The Announcement 4 Detail Header goes here."
     },
     {
       "id": 7,
-      "image": "./src/images/card_images/nft5.png",
-      "title": "Announcement 5",
-      "details": "The Announcement 5 Detail Header goes here."
+      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Home%20Page%20NFT/home-page-nft/f2.jpg",
+      "title": "Support Team",
+      "details": "Get help form out help desk team."
     },
     {
       "id": 8,
-      "image": "./src/images/card_images/nft4.png",
-      "title": "Announcement 4",
-      "details": "The Announcement 4 Detail Header goes here."
+      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Home%20Page%20NFT/home-page-nft/f2.jpg",
+      "title": "Announcement 8",
+      "details": "The Announcement 8 Detail Header goes here."
     },
     {
       "id": 9,
-      "image": "./src/images/card_images/nft5.png",
-      "title": "Announcement 5",
-      "details": "The Announcement 5 Detail Header goes here."
+      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Home%20Page%20NFT/home-page-nft/f2.jpg",
+      "title": "Announcement 9",
+      "details": "The Announcement 9 Detail Header goes here."
     },
     {
       "id": 10,
-      "image": "./src/images/card_images/nft5.png",
-      "title": "Announcement 5",
+      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Home%20Page%20NFT/home-page-nft/f2.jpg",
+      "title": "Announcement 10",
       "details": "The Announcement 5 Detail Header goes here."
     }
-    // Add more announcements as needed
   ]
 }
