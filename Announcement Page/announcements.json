@@ -1,129 +1,78 @@
-{
-  "announcements": [
+[
     {
-      "id": 1,
-      "title": "Scholarship Opportunity",
-      "content": "We're excited to announce a special scholarship opportunity for our community! Every Thursday from 11:30 PM to 12:30 PM, we will be hosting a weekly contest. The top five winners from each contest will earn the chance to join the U-CAN Academy E-Learning Platform for free.",
-      "steps": [
-        "Visit the Home Page",
-        "Click on the Weekly Contest Card",
-        "Follow the Instructions"
-      ],
-      "image": "./src/images/card_images/weekly-contest-banner.jpg",
-      "closingMessage": "Good luck, and may the best contestant win!"
+        "id": "announcement-form-1",
+        "title": "Scholarship Opportunity",
+        "intro": "We're excited to announce a special scholarship opportunity for our community! Every Thursday from 11:30 PM to 12:30 PM, we will be hosting a weekly contest. The top five winners from each contest will earn the chance to join the U-CAN Academy E-Learning Platform for free.",
+        "details": "This is your chance to enhance your learning experience and gain access to a wealth of resources, all while showcasing your knowledge and skills. Mark your calendars and get ready to participate! Good luck!",
+        "image": "./src/images/card_images/weekly-contest-banner.jpg",
+        "steps": [
+            {
+                "title": "Starting the Weekly Contest",
+                "description": "To participate in the weekly contest, follow these steps:",
+                "list": [
+                    "Visit the Home Page: Navigate to the main page of our website.",
+                    "Click on the Weekly Contest Card: Locate the card labeled 'Weekly Contest' on the home page. It should be prominently displayed with details about the contest.",
+                    "Follow the Instructions: Once you click the card, you will be directed to the contest page with all the necessary instructions to participate."
+                ]
+            }
+        ]
     },
-    {
-      "id": 2,
-      "title": "Another Opportunity",
-      "content": "Details of another opportunity can be placed here...",
-      "steps": [],
-      "image": "",
-      "closingMessage": ""
+  {
+        "id": "announcement-form-2",
+        "title": "Scholarship Opportunity",
+        "intro": "We're excited to announce a special scholarship opportunity for our community! Every Thursday from 11:30 PM to 12:30 PM, we will be hosting a weekly contest. The top five winners from each contest will earn the chance to join the U-CAN Academy E-Learning Platform for free.",
+        "details": "This is your chance to enhance your learning experience and gain access to a wealth of resources, all while showcasing your knowledge and skills. Mark your calendars and get ready to participate! Good luck!",
+        "image": "./src/images/card_images/weekly-contest-banner.jpg",
+        "steps": [
+            {
+                "title": "Starting the Weekly Contest",
+                "description": "To participate in the weekly contest, follow these steps:",
+                "list": [
+                    "Visit the Home Page: Navigate to the main page of our website.",
+                    "Click on the Weekly Contest Card: Locate the card labeled 'Weekly Contest' on the home page. It should be prominently displayed with details about the contest.",
+                    "Follow the Instructions: Once you click the card, you will be directed to the contest page with all the necessary instructions to participate."
+                ]
+            }
+        ]
     },
-    {
-      "id": 3,
-      "title": "Another Opportunity",
-      "content": "Details of another opportunity can be placed here...",
-      "steps": [],
-      "image": "",
-      "closingMessage": ""
+  {
+        "id": "announcement-form-3",
+        "title": "Scholarship Opportunity",
+        "intro": "We're excited to announce a special scholarship opportunity for our community! Every Thursday from 11:30 PM to 12:30 PM, we will be hosting a weekly contest. The top five winners from each contest will earn the chance to join the U-CAN Academy E-Learning Platform for free.",
+        "details": "This is your chance to enhance your learning experience and gain access to a wealth of resources, all while showcasing your knowledge and skills. Mark your calendars and get ready to participate! Good luck!",
+        "image": "./src/images/card_images/weekly-contest-banner.jpg",
+        "steps": [
+            {
+                "title": "Starting the Weekly Contest",
+                "description": "To participate in the weekly contest, follow these steps:",
+                "list": [
+                    "Visit the Home Page: Navigate to the main page of our website.",
+                    "Click on the Weekly Contest Card: Locate the card labeled 'Weekly Contest' on the home page. It should be prominently displayed with details about the contest.",
+                    "Follow the Instructions: Once you click the card, you will be directed to the contest page with all the necessary instructions to participate."
+                ]
+            }
+        ]
     },
-    {
-      "id": 4,
-      "title": "Another Opportunity",
-      "content": "Details of another opportunity can be placed here...",
-      "steps": [],
-      "image": "",
-      "closingMessage": ""
-    },
-    {
-      "id": 5,
-      "title": "Another Opportunity",
-      "content": "Details of another opportunity can be placed here...",
-      "steps": [],
-      "image": "",
-      "closingMessage": ""
-    },
-    {
-      "id": 6,
-      "title": "Another Opportunity",
-      "content": "Details of another opportunity can be placed here...",
-      "steps": [],
-      "image": "",
-      "closingMessage": ""
-    },
-    {
-      "id": 7,
-      "title": "Another Opportunity",
-      "content": "Details of another opportunity can be placed here...",
-      "steps": [],
-      "image": "",
-      "closingMessage": ""
-    },
-    {
-      "id": 8,
-      "title": "Another Opportunity",
-      "content": "Details of another opportunity can be placed here...",
-      "steps": [],
-      "image": "",
-      "closingMessage": ""
-    },
-    {
-      "id": 9,
-      "title": "Another Opportunity",
-      "content": "Details of another opportunity can be placed here...",
-      "steps": [],
-      "image": "",
-      "closingMessage": ""
-    },
-    {
-      "id": 10,
-      "title": "Another Opportunity",
-      "content": "Details of another opportunity can be placed here...",
-      "steps": [],
-      "image": "",
-      "closingMessage": ""
-    },
-    {
-      "id": 11,
-      "title": "Another Opportunity",
-      "content": "Details of another opportunity can be placed here...",
-      "steps": [],
-      "image": "",
-      "closingMessage": ""
-    },
-    {
-      "id": 12,
-      "title": "Another Opportunity",
-      "content": "Details of another opportunity can be placed here...",
-      "steps": [],
-      "image": "",
-      "closingMessage": ""
-    },
-    {
-      "id": 13,
-      "title": "Another Opportunity",
-      "content": "Details of another opportunity can be placed here...",
-      "steps": [],
-      "image": "",
-      "closingMessage": ""
-    },
-    {
-      "id": 14,
-      "title": "Another Opportunity",
-      "content": "Details of another opportunity can be placed here...",
-      "steps": [],
-      "image": "",
-      "closingMessage": ""
-    },
-    {
-      "id": 15,
-      "title": "Another Opportunity",
-      "content": "Details of another opportunity can be placed here...",
-      "steps": [],
-      "image": "",
-      "closingMessage": ""
+  {
+        "id": "announcement-form-1",
+        "title": "Scholarship Opportunity",
+        "intro": "We're excited to announce a special scholarship opportunity for our community! Every Thursday from 11:30 PM to 12:30 PM, we will be hosting a weekly contest. The top five winners from each contest will earn the chance to join the U-CAN Academy E-Learning Platform for free.",
+        "details": "This is your chance to enhance your learning experience and gain access to a wealth of resources, all while showcasing your knowledge and skills. Mark your calendars and get ready to participate! Good luck!",
+        "image": "./src/images/card_images/weekly-contest-banner.jpg",
+        "steps": [
+            {
+                "title": "Starting the Weekly Contest",
+                "description": "To participate in the weekly contest, follow these steps:",
+                "list": [
+                    "Visit the Home Page: Navigate to the main page of our website.",
+                    "Click on the Weekly Contest Card: Locate the card labeled 'Weekly Contest' on the home page. It should be prominently displayed with details about the contest.",
+                    "Follow the Instructions: Once you click the card, you will be directed to the contest page with all the necessary instructions to participate."
+                ]
+            }
+        ]
     }
-    
-  ]
-}
+
+
+  
+  
+]
