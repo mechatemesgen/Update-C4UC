@@ -1,129 +1,129 @@
 {
   "announcements": [
     {
+      "id": 1,
       "title": "Scholarship Opportunity",
-      "description": "We're excited to announce a special scholarship opportunity for our community! Every Thursday from 11:30 PM to 12:30 PM, you will have the chance to apply and participate in the event.",
-      "extraInfo": "This is your chance to enhance your learning experience by securing this scholarship. Be sure to prepare ahead and take part in this amazing opportunity.",
-      "strongText": "Mark your calendars and get ready to participate! Good luck!",
-      "imageURL": "./src/images/card_images/weekly-contest-banner.jpg",
-      "steps": {
-        "title": "How to Apply for the Scholarship",
-        "description": "To participate in the scholarship event, follow these simple steps:",
-        "list": [
-          {
-            "title": "Step 1: Visit the Scholarship Page",
-            "description": "Navigate to the scholarship page by clicking on the dedicated scholarship card on the homepage."
-          },
-          {
-            "title": "Step 2: Fill Out the Application Form",
-            "description": "Complete all required fields in the application form, ensuring accuracy in your submission."
-          },
-          {
-            "title": "Step 3: Submit Your Application",
-            "description": "Click the submit button to finalize your application. You'll receive a confirmation email once it's successfully submitted."
-          }
-        ]
-      }
+      "content": "We're excited to announce a special scholarship opportunity for our community! Every Thursday from 11:30 PM to 12:30 PM, we will be hosting a weekly contest. The top five winners from each contest will earn the chance to join the U-CAN Academy E-Learning Platform for free.",
+      "steps": [
+        "Visit the Home Page",
+        "Click on the Weekly Contest Card",
+        "Follow the Instructions"
+      ],
+      "image": "./src/images/card_images/weekly-contest-banner.jpg",
+      "closingMessage": "Good luck, and may the best contestant win!"
     },
     {
-      "title": "Weekly Contest",
-      "description": "Join our weekly contest for a chance to win exciting prizes! Every Thursday from 11:30 PM to 12:30 PM, test your skills and compete with other participants.",
-      "extraInfo": "The contest includes a series of challenging questions designed to test your knowledge and quick thinking. Do you have what it takes to win?",
-      "strongText": "Prepare yourself and don't miss out on this opportunity! Good luck!",
-      "imageURL": "./src/images/card_images/weekly-contest-banner.jpg",
-      "steps": {
-        "title": "Starting the Weekly Contest",
-        "description": "To participate in the weekly contest, follow these steps:",
-        "list": [
-          {
-            "title": "Step 1: Visit the Home Page",
-            "description": "Navigate to the main page of our website and locate the 'Weekly Contest' card."
-          },
-          {
-            "title": "Step 2: Click on the Weekly Contest Card",
-            "description": "Once you find the card labeled 'Weekly Contest,' click on it to be directed to the contest page."
-          },
-          {
-            "title": "Step 3: Follow the Instructions",
-            "description": "On the contest page, carefully read the instructions and complete the contest within the allotted time."
-          }
-        ]
-      }
+      "id": 2,
+      "title": "Another Opportunity",
+      "content": "Details of another opportunity can be placed here...",
+      "steps": [],
+      "image": "",
+      "closingMessage": ""
     },
     {
-      "title": "New Feature Release: Interactive Quizzes",
-      "description": "We're thrilled to announce the release of our new interactive quiz feature! This will provide a more engaging and immersive learning experience for all users.",
-      "extraInfo": "The interactive quizzes are designed to help you track your learning progress and improve your retention of key concepts.",
-      "strongText": "Get ready to test your knowledge with fun and challenging quizzes!",
-      "imageURL": "./src/images/card_images/weekly-contest-banner.jpg",
-      "steps": {
-        "title": "How to Access Interactive Quizzes",
-        "description": "Follow these steps to start using the interactive quiz feature:",
-        "list": [
-          {
-            "title": "Step 1: Navigate to Your Dashboard",
-            "description": "Log in to your account and visit your dashboard where you'll see the 'Interactive Quiz' section."
-          },
-          {
-            "title": "Step 2: Select a Quiz Topic",
-            "description": "Choose a topic from the list of available quizzes to get started."
-          },
-          {
-            "title": "Step 3: Complete the Quiz",
-            "description": "Answer the questions in the quiz. Once you're done, you'll receive immediate feedback on your performance."
-          }
-        ]
-      }
+      "id": 3,
+      "title": "Another Opportunity",
+      "content": "Details of another opportunity can be placed here...",
+      "steps": [],
+      "image": "",
+      "closingMessage": ""
     },
     {
-      "title": "Exclusive Webinar Invitation",
-      "description": "We are pleased to invite you to an exclusive webinar where experts from various fields will discuss trending topics. This is a great opportunity for you to gain insights and ask questions in real time.",
-      "extraInfo": "This webinar is open to all registered members. Make sure to secure your spot by registering in advance!",
-      "strongText": "Don't miss out on this amazing learning opportunity! Register now!",
-      "imageURL": "./src/images/card_images/weekly-contest-banner.jpg",
-      "steps": {
-        "title": "How to Register for the Webinar",
-        "description": "To join the webinar, follow these steps:",
-        "list": [
-          {
-            "title": "Step 1: Visit the Webinar Page",
-            "description": "Go to the webinar page by clicking the link provided in the invitation email or from the main website."
-          },
-          {
-            "title": "Step 2: Fill Out the Registration Form",
-            "description": "Enter your details in the registration form and confirm your participation."
-          },
-          {
-            "title": "Step 3: Attend the Webinar",
-            "description": "On the day of the event, click the provided link to join the live session."
-          }
-        ]
-      }
+      "id": 4,
+      "title": "Another Opportunity",
+      "content": "Details of another opportunity can be placed here...",
+      "steps": [],
+      "image": "",
+      "closingMessage": ""
     },
     {
-      "title": "New Course Available: Advanced JavaScript",
-      "description": "We are excited to introduce our new Advanced JavaScript course! This course is designed to deepen your understanding of JavaScript, covering advanced concepts and techniques.",
-      "extraInfo": "Whether you're looking to enhance your existing skills or learn new techniques, this course is perfect for you!",
-      "strongText": "Enroll today and take your JavaScript knowledge to the next level!",
-      "imageURL": "./src/images/card_images/advanced-js-course-banner.jpg",
-      "steps": {
-        "title": "How to Enroll in the Course",
-        "description": "To start the course, follow these steps:",
-        "list": [
-          {
-            "title": "Step 1: Log in to Your Account",
-            "description": "Access your account and navigate to the 'Courses' section."
-          },
-          {
-            "title": "Step 2: Find the Advanced JavaScript Course",
-            "description": "Scroll through the available courses and select 'Advanced JavaScript.'"
-          },
-          {
-            "title": "Step 3: Click 'Enroll'",
-            "description": "Click the 'Enroll' button to join the course and start learning."
-          }
-        ]
-      }
+      "id": 5,
+      "title": "Another Opportunity",
+      "content": "Details of another opportunity can be placed here...",
+      "steps": [],
+      "image": "",
+      "closingMessage": ""
+    },
+    {
+      "id": 6,
+      "title": "Another Opportunity",
+      "content": "Details of another opportunity can be placed here...",
+      "steps": [],
+      "image": "",
+      "closingMessage": ""
+    },
+    {
+      "id": 7,
+      "title": "Another Opportunity",
+      "content": "Details of another opportunity can be placed here...",
+      "steps": [],
+      "image": "",
+      "closingMessage": ""
+    },
+    {
+      "id": 8,
+      "title": "Another Opportunity",
+      "content": "Details of another opportunity can be placed here...",
+      "steps": [],
+      "image": "",
+      "closingMessage": ""
+    },
+    {
+      "id": 9,
+      "title": "Another Opportunity",
+      "content": "Details of another opportunity can be placed here...",
+      "steps": [],
+      "image": "",
+      "closingMessage": ""
+    },
+    {
+      "id": 10,
+      "title": "Another Opportunity",
+      "content": "Details of another opportunity can be placed here...",
+      "steps": [],
+      "image": "",
+      "closingMessage": ""
+    },
+    {
+      "id": 11,
+      "title": "Another Opportunity",
+      "content": "Details of another opportunity can be placed here...",
+      "steps": [],
+      "image": "",
+      "closingMessage": ""
+    },
+    {
+      "id": 12,
+      "title": "Another Opportunity",
+      "content": "Details of another opportunity can be placed here...",
+      "steps": [],
+      "image": "",
+      "closingMessage": ""
+    },
+    {
+      "id": 13,
+      "title": "Another Opportunity",
+      "content": "Details of another opportunity can be placed here...",
+      "steps": [],
+      "image": "",
+      "closingMessage": ""
+    },
+    {
+      "id": 14,
+      "title": "Another Opportunity",
+      "content": "Details of another opportunity can be placed here...",
+      "steps": [],
+      "image": "",
+      "closingMessage": ""
+    },
+    {
+      "id": 15,
+      "title": "Another Opportunity",
+      "content": "Details of another opportunity can be placed here...",
+      "steps": [],
+      "image": "",
+      "closingMessage": ""
     }
+    
   ]
 }
