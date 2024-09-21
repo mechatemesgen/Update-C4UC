@@ -1,20 +1,21 @@
-[
+{
+  "announcements": [
     {
-        "id": "announcement-form-1",
-        "title": "Scholarship Opportunity",
-        "content": "We're excited to announce a special scholarship opportunity for our community! Every Thursday from 11:30 PM to 12:30 PM, we will be hosting a weekly contest. The top five winners from each contest will earn the chance to join the U-CAN Academy E-Learning Platform for free. This is your chance to enhance your learning experience and gain access to a wealth of resources, all while showcasing your knowledge and skills. Mark your calendars and get ready to participate! Good luck!",
-        "image": "./src/images/card_images/weekly-contest-banner.jpg",
-        "steps": [
-            "Visit the Home Page: Navigate to the main page of our website.",
-            "Click on the Weekly Contest Card: Locate the card labeled 'Weekly Contest' on the home page. It should be prominently displayed with details about the contest.",
-            "Follow the Instructions: Once you click the card, you will be directed to the contest page with all the necessary instructions to participate."
+      "title": "Scholarship Opportunity",
+      "description": "We're excited to announce a special scholarship opportunity for our community! Every Thursday from 11:30 PM to 12:30 PM...",
+      "extraInfo": "This is your chance to enhance your learning experience...",
+      "strongText": "Mark your calendars and get ready to participate! Good luck!",
+      "imageURL": "./src/images/card_images/weekly-contest-banner.jpg",
+      "steps": {
+        "title": "Starting the Weekly Contest",
+        "description": "To participate in the weekly contest, follow these steps:",
+        "list": [
+          { "title": "Visit the Home Page", "description": "Navigate to the main page of our website." },
+          { "title": "Click on the Weekly Contest Card", "description": "Locate the card labeled 'Weekly Contest'..." },
+          { "title": "Follow the Instructions", "description": "Once you click the card, you will be directed to the contest page..." }
         ]
+      }
     },
-    {
-        "id": "announcement-form-2",
-        "title": "Scholarship Opportunity",
-        "content": "We're excited to announce a special scholarship opportunity for our community! Every Thursday from 11:30 PM to 12:30 PM, we will be hosting a weekly contest. The top five winners from each contest will earn the chance to join the U-CAN Academy E-Learning Platform for free. This is your chance to enhance your learning experience and gain access to a wealth of resources, all while showcasing your knowledge and skills. Mark your calendars and get ready to participate! Good luck!",
-        "image": ""
-    }
-    
-]
+    ...
+  ]
+}
