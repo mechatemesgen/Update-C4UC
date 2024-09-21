@@ -1,24 +1,21 @@
 {
   "announcements": [
     {
+      "id": 1,
+      "image": "https://example.com/image1.jpg",
       "title": "Scholarship Opportunity",
-      "details": "Special scholarship opportunity for our community!",
-      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20Page/Announcement%20Card%20Thumbnials/announcement-1.jpg"
+      "details": "We're excited to announce a special scholarship opportunity for our community!",
+      "additional": "Details for the scholarship are as follows: ...",
+      "visible": false
     },
     {
-      "title": "AI Era U-CAN Academy",
-      "details": "The Dev Tack session with experts!",
-      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20Page/Announcement%20Card%20Thumbnials/announcement-2.jpg"
-    },
-    {
-      "title": "Scholarship Opportunity",
-      "details": "Special scholarship opportunity for our community!",
-      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20Page/Announcement%20Card%20Thumbnials/announcement-1.jpg"
-    },
-    {
-      "title": "AI Era U-CAN Academy",
-      "details": "The Dev Tack session with experts!",
-      "image": "https://github.com/mechatemesgen/Update-C4UC/blob/main/Announcement%20Page/Announcement%20Card%20Thumbnials/announcement-3.jpeg"
+      "id": 2,
+      "image": "https://example.com/image2.jpg",
+      "title": "U-CAN Academy",
+      "details": "Category One launching soon. Stay tuned!",
+      "additional": "More details about the new category will be released soon.",
+      "visible": false
     }
+    // Add more announcements as needed
   ]
 }
