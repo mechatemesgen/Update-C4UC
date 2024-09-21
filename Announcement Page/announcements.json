@@ -1,21 +1,20 @@
-{
-  "announcements": [
+[
     {
-      "id": 1,
-      "image": "https://example.com/image1.jpg",
-      "title": "Scholarship Opportunity",
-      "details": "We're excited to announce a special scholarship opportunity for our community!",
-      "additional": "Details for the scholarship are as follows: ...",
-      "visible": false
+        "id": "announcement-form-1",
+        "title": "Scholarship Opportunity",
+        "content": "We're excited to announce a special scholarship opportunity for our community! Every Thursday from 11:30 PM to 12:30 PM, we will be hosting a weekly contest. The top five winners from each contest will earn the chance to join the U-CAN Academy E-Learning Platform for free. This is your chance to enhance your learning experience and gain access to a wealth of resources, all while showcasing your knowledge and skills. Mark your calendars and get ready to participate! Good luck!",
+        "image": "./src/images/card_images/weekly-contest-banner.jpg",
+        "steps": [
+            "Visit the Home Page: Navigate to the main page of our website.",
+            "Click on the Weekly Contest Card: Locate the card labeled 'Weekly Contest' on the home page. It should be prominently displayed with details about the contest.",
+            "Follow the Instructions: Once you click the card, you will be directed to the contest page with all the necessary instructions to participate."
+        ]
     },
     {
-      "id": 2,
-      "image": "https://example.com/image2.jpg",
-      "title": "U-CAN Academy",
-      "details": "Category One launching soon. Stay tuned!",
-      "additional": "More details about the new category will be released soon.",
-      "visible": false
+        "id": "announcement-form-2",
+        "title": "Scholarship Opportunity",
+        "content": "We're excited to announce a special scholarship opportunity for our community! Every Thursday from 11:30 PM to 12:30 PM, we will be hosting a weekly contest. The top five winners from each contest will earn the chance to join the U-CAN Academy E-Learning Platform for free. This is your chance to enhance your learning experience and gain access to a wealth of resources, all while showcasing your knowledge and skills. Mark your calendars and get ready to participate! Good luck!",
+        "image": ""
     }
     // Add more announcements as needed
-  ]
-}
+]
