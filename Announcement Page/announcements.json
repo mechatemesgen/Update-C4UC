@@ -5,7 +5,7 @@
       "description": "We're excited to announce a special scholarship opportunity for our community! Every Thursday from 11:30 PM to 12:30 PM, you will have the chance to apply and participate in the event.",
       "extraInfo": "This is your chance to enhance your learning experience by securing this scholarship. Be sure to prepare ahead and take part in this amazing opportunity.",
       "strongText": "Mark your calendars and get ready to participate! Good luck!",
-      "imageURL": "./src/images/card_images/scholarship-opportunity-banner.jpg",
+      "imageURL": "./src/images/card_images/weekly-contest-banner.jpg",
       "steps": {
         "title": "How to Apply for the Scholarship",
         "description": "To participate in the scholarship event, follow these simple steps:",
@@ -55,7 +55,7 @@
       "description": "We're thrilled to announce the release of our new interactive quiz feature! This will provide a more engaging and immersive learning experience for all users.",
       "extraInfo": "The interactive quizzes are designed to help you track your learning progress and improve your retention of key concepts.",
       "strongText": "Get ready to test your knowledge with fun and challenging quizzes!",
-      "imageURL": "./src/images/card_images/quiz-feature-banner.jpg",
+      "imageURL": "./src/images/card_images/weekly-contest-banner.jpg",
       "steps": {
         "title": "How to Access Interactive Quizzes",
         "description": "Follow these steps to start using the interactive quiz feature:",
@@ -80,7 +80,7 @@
       "description": "We are pleased to invite you to an exclusive webinar where experts from various fields will discuss trending topics. This is a great opportunity for you to gain insights and ask questions in real time.",
       "extraInfo": "This webinar is open to all registered members. Make sure to secure your spot by registering in advance!",
       "strongText": "Don't miss out on this amazing learning opportunity! Register now!",
-      "imageURL": "./src/images/card_images/webinar-invitation-banner.jpg",
+      "imageURL": "./src/images/card_images/weekly-contest-banner.jpg",
       "steps": {
         "title": "How to Register for the Webinar",
         "description": "To join the webinar, follow these steps:",
