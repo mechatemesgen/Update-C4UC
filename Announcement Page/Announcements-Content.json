@@ -92,30 +92,30 @@
       ],
       "goodLuckMessage": "We hope you enjoy these new features! Let us know your feedback."
     },
-    {
+   {
     "id": "3",
-    "title": "Happy New Year",
+    "title": "Happy New Year 2017",
     "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
     "content": [
         {
             "type": "h2",
-            "text": "Happy New Year 2017!"
+            "text": "Happy New Year 2017"
         },
         {
             "type": "p",
-            "text": "Happy new year to all of U-CAN Academy Community "
+            "text": "Happy New Year 2017"
         },
         {
             "type": "img",
             "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg"
         },
         {
-            "type": "h3",
-            "text": "U-CAN Academy E-Learning Will be Launched soon."
+            "type": "p",
+            "text": "Happy New Year 2017"
         },
         {
-            "type": "h1",
-            "text": "U-CAN Academy E-Learning Will be Launched soon. Stay Tuned!"
+            "type": "h3",
+            "text": "Happy New Year 2017"
         }
     ],
     "steps": [],
@@ -145,6 +145,35 @@
         {
             "type": "h1",
             "text": "U-CAN Academy E-Learning Will be Launched soon. Stay Tuned!"
+        }
+    ],
+    "steps": [],
+    "goodLuckMessage": ""
+},
+    {
+    "id": "5",
+    "title": "Happy New Year 2017",
+    "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
+    "content": [
+        {
+            "type": "h2",
+            "text": "Happy New Year 2017"
+        },
+        {
+            "type": "p",
+            "text": "Happy New Year 2017"
+        },
+        {
+            "type": "img",
+            "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg"
+        },
+        {
+            "type": "p",
+            "text": "Happy New Year 2017"
+        },
+        {
+            "type": "h3",
+            "text": "Happy New Year 2017"
         }
     ],
     "steps": [],
