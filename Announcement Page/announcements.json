@@ -1,17 +1,16 @@
 [
   {
-    "id": "announcement-card-1",
+    "id": "announcement-card-6",
     "image": "./src/images/card_images/placeholder.png",
-    "title": "Scholarship Opportunity 1",
-    "details": "Special scholarship opportunity for our community!",
+    "title": "Announcement Title 6",
+    "details": "Details for announcement 6.",
     "coinImage": "./src/images/card_images/u-can coin.png"
   },
   {
-    "id": "announcement-card-2",
+    "id": "announcement-card-7",
     "image": "./src/images/card_images/placeholder.png",
-    "title": "Announcement 2",
-    "details": "The Announcement 2 Detail Header goes here.",
+    "title": "Announcement Title 7",
+    "details": "Details for announcement 7.",
     "coinImage": "./src/images/card_images/u-can coin.png"
-  },
-   
+  }
 ]
