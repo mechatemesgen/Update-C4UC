@@ -74,6 +74,32 @@
         }
       ],
       "goodLuckMessage": "Good luck with the hackathon! We can't wait to see your creative solutions."
+    },
+    {
+      "id": "4",
+      "title": "Summer Coding Bootcamp",
+      "paragraphs": [
+        "Join us for an intensive Summer Coding Bootcamp designed to sharpen your programming skills.",
+        "Our expert instructors will guide you through essential coding practices and project-based learning.",
+        "Enroll now and take the next step in your coding journey!"
+      ],
+      "imageSrc": "./src/images/bootcamp.jpg",
+      "steps": [
+        {
+          "title": "Step 1",
+          "description": "Fill out the registration form on our website."
+        },
+        {
+          "title": "Step 2",
+          "description": "Complete the pre-course assignments to get started."
+        },
+        {
+          "title": "Step 3",
+          "description": "Attend the bootcamp sessions and complete your final project."
+        }
+      ],
+      "goodLuckMessage": "We look forward to seeing you at the bootcamp. Good luck!"
     }
+    
   ]
 }
