@@ -33,7 +33,7 @@
         "This year's conference will include keynote speeches, panel discussions, and networking opportunities.",
         "Register early to secure your spot and be part of this landmark event!"
       ],
-      "imageSrc": "./src/images/conference.jpg",
+      "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/huca3.jpg",
       "steps": [
         {
           "title": "Step 1",
