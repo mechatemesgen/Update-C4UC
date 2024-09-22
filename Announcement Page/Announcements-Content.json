@@ -1,50 +1,46 @@
 {
   "announcements": [
-    {
+   {
       "id": 1,
-      "title": "Weekly Contest",
+      "title": "New Features Announcement",
       "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
       "content": [
         { 
           "type": "h2", 
-          "text": "Exciting Contest This Week!" 
+          "text": "Introducing New Features!" 
         },
         { 
           "type": "p", 
-          "text": "We are excited to announce this week's contest. Get ready to participate in various challenges and win amazing prizes!" 
+          "text": "We are thrilled to announce new features that will enhance your experience." 
         },
         { 
           "type": "img", 
           "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg", 
         },
         { 
-          "type": "p", 
-          "text": "Make sure to follow all the steps below to ensure your participation." 
-        },
-        { 
           "type": "ul", 
           "items": [
-            "Register before the deadline.",
-            "Complete the challenge as instructed.",
-            "Submit your entry within the provided time frame."
+            "Improved user interface for easier navigation.",
+            "New dashboard for tracking your progress.",
+            "Personalized notifications based on your activity."
           ] 
+        },
+        { 
+          "type": "p", 
+          "text": "These features are designed to make your experience more enjoyable and productive." 
         }
       ],
       "steps": [
         { 
-          "title": "Step 1: Register", 
-          "description": "Sign up for the contest on our official contest page." 
+          "title": "Step 1: Explore the Dashboard", 
+          "description": "Check out the new features on your dashboard." 
         },
         { 
-          "title": "Step 2: Participate", 
-          "description": "Complete all the challenges provided within the time limit." 
-        },
-        { 
-          "title": "Step 3: Submit", 
-          "description": "Submit your completed entry through the submission form before the deadline." 
+          "title": "Step 2: Customize Notifications", 
+          "description": "Set up personalized notifications based on your interests." 
         }
       ],
-      "goodLuckMessage": "Good luck to all participants! We can't wait to see your amazing entries."
+      "goodLuckMessage": "We hope you enjoy these new features! Let us know your feedback."
     },
     {
       "id": 2,
