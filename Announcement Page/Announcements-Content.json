@@ -1,38 +1,79 @@
 {
-  "announcementForms": [
+  "announcements": [
     {
-      "id": "announcement-form-1",
-      "className": "form-card",
-      "title": "Scholarship Opportunity",
+      "id": "1",
+      "title": "Summer Coding Bootcamp",
       "paragraphs": [
-        "We're excited to announce a special scholarship opportunity for our community! Every Thursday from 11:30 PM to 12:30 PM, we will be hosting a weekly contest. The top five winners from each contest will earn the chance to join the U-CAN Academy E-Learning Platform for free.",
-        "This is your chance to enhance your learning experience and gain access to a wealth of resources, all while showcasing your knowledge and skills.",
-        "Mark your calendars and get ready to participate! Good luck!"
+        "Join us for an intensive Summer Coding Bootcamp designed to sharpen your programming skills.",
+        "Our expert instructors will guide you through essential coding practices and project-based learning.",
+        "Enroll now and take the next step in your coding journey!"
       ],
-      "imageSrc": "./src/images/card_images/weekly-contest-banner.jpg",
+      "imageSrc": "./src/images/bootcamp.jpg",
       "steps": [
         {
-          "title": "Visit the Home Page",
-          "description": "Navigate to the main page of our website."
+          "title": "Step 1",
+          "description": "Fill out the registration form on our website."
         },
         {
-          "title": "Click on the Weekly Contest Card",
-          "description": "Locate the card labeled 'Weekly Contest' on the home page. It should be prominently displayed with details about the contest."
+          "title": "Step 2",
+          "description": "Complete the pre-course assignments to get started."
         },
         {
-          "title": "Follow the Instructions",
-          "description": "Once you click the card, you will be directed to the contest page with all the necessary instructions to participate."
+          "title": "Step 3",
+          "description": "Attend the bootcamp sessions and complete your final project."
         }
-      ]
+      ],
+      "goodLuckMessage": "We look forward to seeing you at the bootcamp. Good luck!"
     },
     {
-      "id": "announcement-form-2",
-      "className": "form-card",
-      "title": "Another Announcement",
+      "id": "2",
+      "title": "Annual Tech Conference",
       "paragraphs": [
-        "Here's another exciting opportunity for you this month.",
-        "Make sure to join us for the upcoming events!"
-      ]
+        "We are excited to host our Annual Tech Conference featuring industry leaders and innovative sessions.",
+        "This year's conference will include keynote speeches, panel discussions, and networking opportunities.",
+        "Register early to secure your spot and be part of this landmark event!"
+      ],
+      "imageSrc": "./src/images/conference.jpg",
+      "steps": [
+        {
+          "title": "Step 1",
+          "description": "Register for the conference online and choose your sessions."
+        },
+        {
+          "title": "Step 2",
+          "description": "Prepare your questions and topics for discussion."
+        },
+        {
+          "title": "Step 3",
+          "description": "Attend the conference and engage with speakers and participants."
+        }
+      ],
+      "goodLuckMessage": "We hope you enjoy the conference and make valuable connections!"
+    },
+    {
+      "id": "3",
+      "title": "Monthly Hackathon Challenge",
+      "paragraphs": [
+        "Participate in our Monthly Hackathon Challenge and test your coding skills against other developers.",
+        "Work on exciting problems and collaborate with peers to find innovative solutions.",
+        "Submit your solutions before the deadline to win fantastic prizes!"
+      ],
+      "imageSrc": "./src/images/hackathon.jpg",
+      "steps": [
+        {
+          "title": "Step 1",
+          "description": "Register for the hackathon through our event portal."
+        },
+        {
+          "title": "Step 2",
+          "description": "Form a team or work individually on the challenge."
+        },
+        {
+          "title": "Step 3",
+          "description": "Submit your code and project before the end of the competition."
+        }
+      ],
+      "goodLuckMessage": "Good luck with the hackathon! We can't wait to see your creative solutions."
     }
   ]
 }
