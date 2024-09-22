@@ -1,33 +1,23 @@
 [
   {
-    "id": "announcement-card-1",
     "image": "./src/images/card_images/placeholder.png",
-    "content": "Scholarship Opportunity",
+    "title": "Scholarship Opportunity 1",
     "details": "Special scholarship opportunity for our community!"
   },
   {
-    "id": "announcement-card-2",
     "image": "./src/images/card_images/placeholder.png",
-    "content": "Announcement 2",
+    "title": "Announcement 2",
     "details": "The Announcement 2 Detail Header goes here."
   },
   {
-    "id": "announcement-card-3",
     "image": "./src/images/card_images/placeholder.png",
-    "content": "Announcement 3",
-    "details": "The Announcement 3 Detail Header goes here."
+    "title": "Announcement 3",
+    "details": "The Announcement 2 Detail Header goes here."
   },
   {
-    "id": "announcement-card-4",
     "image": "./src/images/card_images/placeholder.png",
-    "content": "Announcement 4",
-    "details": "The Announcement 4 Detail Header goes here."
-  },
-  {
-    "id": "announcement-card-5",
-    "image": "./src/images/card_images/placeholder.png",
-    "content": "Announcement 5",
-    "details": "The Announcement 5 Detail Header goes here."
+    "title": "Announcement 4",
+    "details": "The Announcement 2 Detail Header goes here."
   }
-  
+ 
 ]
