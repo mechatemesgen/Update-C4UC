@@ -16,8 +16,6 @@
         { 
           "type": "img", 
           "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg", 
-          "alt": "Contest Banner", 
-          "width": 400 
         },
         { 
           "type": "p", 
@@ -64,8 +62,6 @@
         { 
           "type": "img", 
           "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg", 
-          "alt": "New Features", 
-          "width": 300 
         },
         { 
           "type": "ul", 
