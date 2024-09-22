@@ -1,16 +1,23 @@
-[
-  {
-    "id": "announcement-card-6",
-    "image": "./src/images/card_images/placeholder.png",
-    "title": "Announcement Title 6",
-    "details": "Details for announcement 6.",
-    "coinImage": "./src/images/card_images/u-can coin.png"
-  },
-  {
-    "id": "announcement-card-7",
-    "image": "./src/images/card_images/placeholder.png",
-    "title": "Announcement Title 7",
-    "details": "Details for announcement 7.",
-    "coinImage": "./src/images/card_images/u-can coin.png"
-  }
-]
+{
+  "announcements": [
+    {
+      "title": "Scholarship Opportunity 1",
+      "details": "Special scholarship opportunity for our community!",
+      "image": "./src/images/card_images/scholarship.png",
+      "time": "10:00 AM"
+    },
+    {
+      "title": "Announcement 2",
+      "details": "The Announcement 2 Detail Header goes here.",
+      "image": "./src/images/card_images/announcement2.png",
+      "time": "11:00 AM"
+    },
+    {
+      "title": "Announcement 3",
+      "details": "The Announcement 3 Detail Header goes here.",
+      "image": "./src/images/card_images/announcement3.png",
+      "time": "12:00 PM"
+    }
+    // Continue for all announcements
+  ]
+}
