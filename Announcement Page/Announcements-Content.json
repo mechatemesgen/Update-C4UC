@@ -15,9 +15,7 @@
         },
         { 
           "type": "img", 
-          "src": "path/to/contest-image.jpg", 
-          "alt": "Contest Banner", 
-          "width": 400 
+          "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg"          
         },
         { 
           "type": "p", 
@@ -40,6 +38,10 @@
         { 
           "title": "Step 2: Participate", 
           "description": "Complete all the challenges provided within the time limit." 
+        },
+        { 
+          "type": "img", 
+          "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg"          
         },
         { 
           "title": "Step 3: Submit", 
