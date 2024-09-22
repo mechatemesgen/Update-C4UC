@@ -118,6 +118,27 @@
         {
           "type": "h3",
           "text": "Happy New Year 2017"
+        },
+        {
+          "type": "h2",
+          "text": "Happy New Year 2017"
+        },
+        {
+          "type": "p",
+          "text": "Happy New Year 2017"
+        },
+        {
+          "type": "img",
+          "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
+          "alt": "Happy New Year 2017"
+        },
+        {
+          "type": "p",
+          "text": "Happy New Year 2017"
+        },
+        {
+          "type": "h3",
+          "text": "Happy New Year 2017"
         }
       ],
       "steps": [],
