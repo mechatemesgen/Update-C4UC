@@ -8,7 +8,7 @@
         "Our expert instructors will guide you through essential coding practices and project-based learning.",
         "Enroll now and take the next step in your coding journey!"
       ],
-      "imageSrc": "./src/images/bootcamp.jpg",
+      "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Home%20Page%20NFT/home-page-nft/f2.jpg",
       "steps": [
         {
           "title": "Step 1",
