@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Weekly Contest",
-      "imageSrc": "path/to/main-hero-image.jpg",
+      "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
       "content": [
         { 
           "type": "h2", 
@@ -15,7 +15,7 @@
         },
         { 
           "type": "img", 
-          "src": "path/to/contest-image.jpg", 
+          "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg", 
           "alt": "Contest Banner", 
           "width": 400 
         },
@@ -51,7 +51,7 @@
     {
       "id": 2,
       "title": "New Features Announcement",
-      "imageSrc": "path/to/new-features-image.jpg",
+      "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
       "content": [
         { 
           "type": "h2", 
@@ -63,7 +63,7 @@
         },
         { 
           "type": "img", 
-          "src": "path/to/features-image.jpg", 
+          "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg", 
           "alt": "New Features", 
           "width": 300 
         },
