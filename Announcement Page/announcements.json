@@ -1,4 +1,17 @@
 [
-  { "image": "img1.png", "title": "Announcement 1", "details": "Details 1" },
-  { "image": "img2.png", "title": "Announcement 2", "details": "Details 2" }
+  {
+    "id": "announcement-card-1",
+    "image": "./src/images/card_images/placeholder.png",
+    "title": "Scholarship Opportunity 1",
+    "details": "Special scholarship opportunity for our community!",
+    "coinImage": "./src/images/card_images/u-can coin.png"
+  },
+  {
+    "id": "announcement-card-2",
+    "image": "./src/images/card_images/placeholder.png",
+    "title": "Announcement 2",
+    "details": "The Announcement 2 Detail Header goes here.",
+    "coinImage": "./src/images/card_images/u-can coin.png"
+  },
+  
 ]
