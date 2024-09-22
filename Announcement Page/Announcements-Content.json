@@ -91,6 +91,40 @@
         }
       ],
       "goodLuckMessage": "We hope you enjoy these new features! Let us know your feedback."
-    }
+    },
+    {
+    "id": "3",
+    "title": "Happy new Year",
+    "imageSrc": "https://github.com/mechatemesgen/Update-C4UC/blob/main/Announcement%20NFT/Images/hny%202017.jpg",
+    "content": [
+        {
+            "type": "h2",
+            "text": "Happy New Year 2017 EC."
+        },
+        {
+            "type": "p",
+            "text": "Happy New Year 2017 EC. To all of U-CAN Academy Community!"
+        },
+        {
+            "type": "img",
+            "src": "https://github.com/mechatemesgen/Update-C4UC/blob/main/Announcement%20NFT/Images/hny%202017.jpg"
+        },
+        {
+            "type": "h3",
+            "text": "U-CAN Academy E-Learning Platform"
+        },
+        {
+            "type": "p",
+            "text": "U-CAN Academy E-Learning Platform is coming soon stay tuned!"
+        }
+    ],
+    "steps": [],
+    "goodLuckMessage": ""
+}
+
+
+
+
+    
   ]
 }
