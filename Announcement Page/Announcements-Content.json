@@ -1,6 +1,6 @@
 {
   "announcements": [
-   {
+    {
       "id": 1,
       "title": "Weekly Contest",
       "imageSrc": "path/to/main-hero-image.jpg",
@@ -64,6 +64,7 @@
         { 
           "type": "img", 
           "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg", 
+          "alt": "New Features"
         },
         { 
           "type": "ul", 
@@ -90,97 +91,95 @@
       ],
       "goodLuckMessage": "We hope you enjoy these new features! Let us know your feedback."
     },
-   {
-    "id": "3",
-    "title": "Happy New Year 2017",
-    "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
-    "content": [
-        {
-            "type": "h2",
-            "text": "Happy New Year 2017"
-        },
-        {
-            "type": "p",
-            "text": "Happy New Year 2017"
-        },
-        {
-            "type": "img",
-            "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg"
-        },
-        {
-            "type": "p",
-            "text": "Happy New Year 2017"
-        },
-        {
-            "type": "h3",
-            "text": "Happy New Year 2017"
-        }
-    ],
-    "steps": [],
-    "goodLuckMessage": ""
-},
     {
-    "id": "4",
-    "title": "Happy New Year",
-    "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
-    "content": [
+      "id": 3,
+      "title": "Happy New Year 2017",
+      "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
+      "content": [
         {
-            "type": "h2",
-            "text": "Happy New Year 2017!"
+          "type": "h2",
+          "text": "Happy New Year 2017"
         },
         {
-            "type": "p",
-            "text": "Happy new year to all of U-CAN Academy Community "
+          "type": "p",
+          "text": "Happy New Year 2017"
         },
         {
-            "type": "img",
-            "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg"
+          "type": "img",
+          "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
+          "alt": "Happy New Year 2017"
         },
         {
-            "type": "h3",
-            "text": "U-CAN Academy E-Learning Will be Launched soon."
+          "type": "p",
+          "text": "Happy New Year 2017"
         },
         {
-            "type": "h1",
-            "text": "U-CAN Academy E-Learning Will be Launched soon. Stay Tuned!"
+          "type": "h3",
+          "text": "Happy New Year 2017"
         }
-    ],
-    "steps": [],
-    "goodLuckMessage": ""
-},
+      ],
+      "steps": [],
+      "goodLuckMessage": ""
+    },
     {
-    "id": "5",
-    "title": "Happy New Year 2017",
-    "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
-    "content": [
+      "id": 4,
+      "title": "Happy New Year",
+      "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
+      "content": [
         {
-            "type": "h2",
-            "text": "Happy New Year 2017"
+          "type": "h2",
+          "text": "Happy New Year 2017!"
         },
         {
-            "type": "p",
-            "text": "Happy New Year 2017"
+          "type": "p",
+          "text": "Happy new year to all of U-CAN Academy Community"
         },
         {
-            "type": "img",
-            "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg"
+          "type": "img",
+          "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
+          "alt": "Happy New Year 2017"
         },
         {
-            "type": "p",
-            "text": "Happy New Year 2017"
+          "type": "h3",
+          "text": "U-CAN Academy E-Learning Will be Launched soon."
         },
         {
-            "type": "h3",
-            "text": "Happy New Year 2017"
+          "type": "h1",
+          "text": "U-CAN Academy E-Learning Will be Launched soon. Stay Tuned!"
         }
-    ],
-    "steps": [],
-    "goodLuckMessage": ""
-}
-
-
-
-
-    
+      ],
+      "steps": [],
+      "goodLuckMessage": ""
+    },
+    {
+      "id": 5,
+      "title": "Happy New Year 2017",
+      "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
+      "content": [
+        {
+          "type": "h2",
+          "text": "Happy New Year 2017"
+        },
+        {
+          "type": "p",
+          "text": "Happy New Year 2017"
+        },
+        {
+          "type": "img",
+          "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
+          "alt": "Happy New Year 2017"
+        },
+        {
+          "type": "p",
+          "text": "Happy New Year 2017"
+        },
+        {
+          "type": "h3",
+          "text": "Happy New Year 2017"
+        }
+      ],
+      "steps": [],
+      "goodLuckMessage": ""
+    }
   ]
 }
