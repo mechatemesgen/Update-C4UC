@@ -94,28 +94,57 @@
     },
     {
     "id": "3",
-    "title": "Happy new Year",
-    "imageSrc": "https://github.com/mechatemesgen/Update-C4UC/blob/main/Announcement%20NFT/Images/hny%202017.jpg",
+    "title": "Happy New Year",
+    "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
     "content": [
         {
             "type": "h2",
-            "text": "Happy New Year 2017 EC."
+            "text": "Happy New Year 2017!"
         },
         {
             "type": "p",
-            "text": "Happy New Year 2017 EC. To all of U-CAN Academy Community!"
+            "text": "Happy new year to all of U-CAN Academy Community "
         },
         {
             "type": "img",
-            "src": "https://github.com/mechatemesgen/Update-C4UC/blob/main/Announcement%20NFT/Images/hny%202017.jpg"
+            "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg"
         },
         {
             "type": "h3",
-            "text": "U-CAN Academy E-Learning Platform"
+            "text": "U-CAN Academy E-Learning Will be Launched soon."
+        },
+        {
+            "type": "h1",
+            "text": "U-CAN Academy E-Learning Will be Launched soon. Stay Tuned!"
+        }
+    ],
+    "steps": [],
+    "goodLuckMessage": ""
+},
+    {
+    "id": "4",
+    "title": "Happy New Year",
+    "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
+    "content": [
+        {
+            "type": "h2",
+            "text": "Happy New Year 2017!"
         },
         {
             "type": "p",
-            "text": "U-CAN Academy E-Learning Platform is coming soon stay tuned!"
+            "text": "Happy new year to all of U-CAN Academy Community "
+        },
+        {
+            "type": "img",
+            "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg"
+        },
+        {
+            "type": "h3",
+            "text": "U-CAN Academy E-Learning Will be Launched soon."
+        },
+        {
+            "type": "h1",
+            "text": "U-CAN Academy E-Learning Will be Launched soon. Stay Tuned!"
         }
     ],
     "steps": [],
