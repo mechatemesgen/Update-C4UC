@@ -1,21 +1,36 @@
 {
   "announcements": [
     {
+      "id": "announcement-form-1",
       "title": "Scholarship Opportunity",
-      "description1": "We're excited to announce a special scholarship opportunity for our community! Every Thursday from 11:30 PM to 12:30 PM, we will be hosting a weekly contest.",
-      "description2": "The top five winners from each contest will earn the chance to join the U-CAN Academy E-Learning Platform for free.",
-      "description3": "Mark your calendars and get ready to participate! Good luck!",
-      "image": "./src/images/card_images/weekly-contest-banner.jpg",
-      "imageAlt": "Weekly Contest Image"
+      "content": [
+        "We're excited to announce a special scholarship opportunity for our community! Every Thursday from 11:30 PM to 12:30 PM, we will be hosting a weekly contest.",
+        "The top five winners from each contest will earn the chance to join the U-CAN Academy E-Learning Platform for free.",
+        "This is your chance to enhance your learning experience and gain access to a wealth of resources, all while showcasing your knowledge and skills.",
+        "<strong>Mark your calendars and get ready to participate! Good luck!</strong>"
+      ],
+      "steps": [
+        "Visit the Home Page: Navigate to the main page of our website.",
+        "Click on the Weekly Contest Card: Locate the card labeled 'Weekly Contest' on the home page.",
+        "Follow the Instructions: Once you click the card, you will be directed to the contest page with all the necessary instructions."
+      ],
+      "imageSrc": "./src/images/card_images/weekly-contest-banner.jpg",
+      "imgAlt": "Weekly Contest Image"
     },
     {
-      "title": "Special Event",
-      "description1": "Join us for a special event happening this month...",
-      "description2": "It will be a great opportunity to...",
-      "description3": "Don't miss out!",
-      "image": "./src/images/card_images/event-banner.jpg",
-      "imageAlt": "Special Event Image"
+      "id": "announcement-form-2",
+      "title": "Scholarship Opportunity",
+      "content": [
+        "We're excited to announce a special scholarship opportunity for our community!",
+        "The top five winners will get a free subscription to the U-CAN Academy E-Learning Platform."
+      ]
     }
-    // Add more announcements as needed
+
+
+
+
+
+
+    
   ]
 }
