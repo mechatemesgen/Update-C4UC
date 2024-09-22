@@ -1,23 +1,18 @@
-{
-  "announcements": [
+[
     {
-      "title": "Scholarship Opportunity 1",
-      "details": "Special scholarship opportunity for our community!",
-      "image": "./src/images/card_images/scholarship.png",
-      "time": "10:00 AM"
+        "id": 1,
+        "title": "Announcement 1",
+        "detailHeader": "The Announcement 1 Detail Header goes here.",
+        "imageSrc": "./src/images/card_images/placeholder.png",
+        "coinImageSrc": "./src/images/card_images/u-can coin.png"
     },
     {
-      "title": "Announcement 2",
-      "details": "The Announcement 2 Detail Header goes here.",
-      "image": "./src/images/card_images/announcement2.png",
-      "time": "11:00 AM"
-    },
-    {
-      "title": "Announcement 3",
-      "details": "The Announcement 3 Detail Header goes here.",
-      "image": "./src/images/card_images/announcement3.png",
-      "time": "12:00 PM"
+        "id": 2,
+        "title": "Announcement 2",
+        "detailHeader": "The Announcement 2 Detail Header goes here.",
+        "imageSrc": "./src/images/card_images/placeholder.png",
+        "coinImageSrc": "./src/images/card_images/u-can coin.png"
     }
-    // Continue for all announcements
-  ]
-}
+
+  
+]
