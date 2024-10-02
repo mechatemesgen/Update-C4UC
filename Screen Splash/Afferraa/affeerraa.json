@@ -128,5 +128,23 @@
                 "link": "https://t.me/me"
             }
         ]
+    },
+    {
+        "firstName": "Sisay",
+        "applicationNumber": "UCa123456121",
+        "status": "Rejected",
+        "letter": "Dear Sisay, We regret to inform you that your application has been rejected. We wish you all the best in your future endeavors.",
+        "plan": "basic",
+        "category": "category1",
+        "telegramGroups": [
+            {
+                "name": "Group B",
+                "link": "https://t.me/me"
+            },
+            {
+                "name": "Group E",
+                "link": "https://t.me/me"
+            }
+        ]
     }
 ]
