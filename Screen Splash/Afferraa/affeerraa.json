@@ -32,5 +32,14 @@
     "plan": "basic",
     "category": "category2",
     "telegramGroups": []
+  },
+  {
+    "firstName": "Sisay",
+    "applicationNumber": "UCA0012",
+    "status": "Approved",
+    "letter": "Dear Sisay, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
+    "plan": "basic",
+    "category": "category1",
+    "telegramGroups": []
   }
 ]
