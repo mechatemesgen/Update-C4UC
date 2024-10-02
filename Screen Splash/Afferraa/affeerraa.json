@@ -166,19 +166,19 @@
         ]
     },
     {
-        "firstName": "Sisay",
-        "applicationNumber": "UCa123456123",
+        "firstName": "kotoran",
+        "applicationNumber": "UCa12345625",
         "status": "Approved",
-        "letter": "Dear Sisay, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
-        "plan": "basic",
-        "category": "category1",
+        "letter": "Dear kotoran, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
+        "plan": "combined",
+        "category": "bothCategories",
         "telegramGroups": [
             {
-                "name": "Group B",
+                "name": "Group A",
                 "link": "https://t.me/me"
             },
             {
-                "name": "Group E",
+                "name": "Group C",
                 "link": "https://t.me/me"
             }
         ]
