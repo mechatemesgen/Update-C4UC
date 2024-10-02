@@ -1,12 +1,20 @@
 {
-  "firstName": "Adiminstrator",
-  "applicationNumber": "UCA001",
+  "firstName": "Mecha",
+  "applicationNumber": "UCA002",
   "status": "Approved",
   "plan": "basic",
   "category": "category1",
   "telegramGroups": [
     {
       "name": "Group A",
+      "link": "https://t.me/me"
+    },
+    {
+      "name": "Group A",
+      "link": "https://t.me/me"
+    },
+    {
+      "name": "Group C",
       "link": "https://t.me/me"
     },
     {
