@@ -1,9 +1,9 @@
 {
-  "firstName": "Mecha",
-  "applicationNumber": "UCA003",
+  "firstName": "Eba",
+  "applicationNumber": "UCA004",
   "status": "Approved",
-  "plan": "combined",
-  "category": "bothCategories",
+  "plan": "basic",
+  "category": "category1",
   "telegramGroups": [
     {
       "name": "Group A",
@@ -28,6 +28,10 @@
     {
       "name": "Group B",
       "link": "https://t.me/me"
+    },
+    {
+      "name": "",
+      "link": ""
     }
   ]
 }
