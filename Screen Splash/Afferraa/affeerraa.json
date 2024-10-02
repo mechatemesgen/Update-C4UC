@@ -1,9 +1,9 @@
 {
-  "firstName": "Mecha",
+  "firstName": "Firo",
   "applicationNumber": "UCA002",
   "status": "Approved",
-  "plan": "basic",
-  "category": "category1",
+  "plan": "combined",
+  "category": "bothCategories",
   "telegramGroups": [
     {
       "name": "Group A",
@@ -23,6 +23,10 @@
     },
     {
       "name": "Group C",
+      "link": "https://t.me/me"
+    },
+    {
+      "name": "Group B",
       "link": "https://t.me/me"
     }
   ]
