@@ -1,24 +1,60 @@
-{
-  "announcements": [
+[
     {
-      "title": "Scholarship Opportunity",
-      "details": "Special scholarship opportunity for our community!",
-      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20Page/Announcement%20Card%20Thumbnials/announcement-1.jpg"
+        "id": 1,
+        "title": "New Cards here",
+        "detailHeader": "The Announcement 1 Detail Header goes here.",
+        "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/huca3.jpg",
+        "coinImageSrc": "./src/images/card_images/u-can coin.png"
     },
     {
-      "title": "AI Era U-CAN Academy",
-      "details": "The Dev Tack session with experts!",
-      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20Page/Announcement%20Card%20Thumbnials/announcement-2.jpg"
+        "id": 2,
+        "title": "Coding Bootcamp",
+        "detailHeader": "The Announcement 2 Detail Header goes here.",
+        "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Home%20Page%20NFT/home-page-nft/f2.jpg",
+        "coinImageSrc": "./src/images/card_images/u-can coin.png"
     },
     {
-      "title": "Scholarship Opportunity",
-      "details": "Special scholarship opportunity for our community!",
-      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20Page/Announcement%20Card%20Thumbnials/announcement-1.jpg"
+        "id": 3,
+        "title": "AI For Education",
+        "detailHeader": "The Announcement 1 Detail Header goes here.",
+        "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
+        "coinImageSrc": "./src/images/card_images/u-can coin.png"
     },
     {
-      "title": "AI Era U-CAN Academy",
-      "details": "The Dev Tack session with experts!",
-      "image": "https://github.com/mechatemesgen/Update-C4UC/blob/main/Announcement%20Page/Announcement%20Card%20Thumbnials/announcement-3.jpeg"
+        "id": 4,
+        "title": "Announcement 2",
+        "detailHeader": "The Announcement 2 Detail Header goes here.",
+        "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Home%20Page%20NFT/home-page-nft/f2.jpg",
+        "coinImageSrc": "./src/images/card_images/u-can coin.png"
+    },
+    {
+        "id": 5,
+        "title": "Announcement 1",
+        "detailHeader": "The Announcement 1 Detail Header goes here.",
+        "imageSrc": "./src/images/card_images/placeholder.png",
+        "coinImageSrc": "./src/images/card_images/u-can coin.png"
+    },
+    {
+        "id": 6,
+        "title": "Announcement 2",
+        "detailHeader": "The Announcement 2 Detail Header goes here.",
+        "imageSrc": "./src/images/card_images/placeholder.png",
+        "coinImageSrc": "./src/images/card_images/u-can coin.png"
+    },
+    {
+        "id": 7,
+        "title": "U-CAN Academy",
+        "detailHeader": "The Announcement 1 Detail Header goes here.",
+        "imageSrc": "./src/images/card_images/placeholder.png",
+        "coinImageSrc": "./src/images/card_images/u-can coin.png"
+    },
+    {
+        "id": 8,
+        "title": "Announcement 2",
+        "detailHeader": "The Announcement 2 Detail Header goes here.",
+        "imageSrc": "./src/images/card_images/placeholder.png",
+        "coinImageSrc": "./src/images/card_images/u-can coin.png"
     }
-  ]
-}
+
+  
+]

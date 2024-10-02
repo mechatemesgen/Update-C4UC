@@ -26,7 +26,7 @@
     },
     {
       "id": 5,
-      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/UCA%20New%20tl.png",
+      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
       "title": "Happy New Year!",
       "details": "Wishing you a fantastic year ahead!"
     },
@@ -58,6 +58,36 @@
       "id": 10,
       "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Home%20Page%20NFT/home-page-nft/f2.jpg",
       "title": "New Update",
+      "details": "Details for New Update 10 will be updated soon."
+    },
+    {
+      "id": 11,
+      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Home%20Page%20NFT/home-page-nft/f2.jpg",
+      "title": "New One 11",
+      "details": "Details for New Update 10 will be updated soon."
+    },
+    {
+      "id": 12,
+      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Home%20Page%20NFT/home-page-nft/f2.jpg",
+      "title": "New One 12",
+      "details": "Details for New Update 10 will be updated soon."
+    },
+    {
+      "id": 13,
+      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Home%20Page%20NFT/home-page-nft/f2.jpg",
+      "title": "New One 13",
+      "details": "Details for New Update 10 will be updated soon."
+    },
+    {
+      "id": 14,
+      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Home%20Page%20NFT/home-page-nft/f2.jpg",
+      "title": "New One 14",
+      "details": "Details for New Update 10 will be updated soon."
+    },
+    {
+      "id": 15,
+      "image": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Home%20Page%20NFT/home-page-nft/f2.jpg",
+      "title": "New One 15",
       "details": "Details for New Update 10 will be updated soon."
     }
   ]
