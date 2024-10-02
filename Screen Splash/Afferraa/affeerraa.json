@@ -52,19 +52,15 @@
         ]
     },
     {
-        "firstName": "kumsa",
-        "applicationNumber": "UCa12345612",
-        "status": "Approved",
-        "letter": "Dear kumsa, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
+        "firstName": "Mecha Temesgen Merga",
+        "applicationNumber": "UCa12345623",
+        "status": "Pending",
+        "letter": "Dear Mecha Temesgen Merga, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
         "plan": "basic",
-        "category": "category2",
+        "category": "category1",
         "telegramGroups": [
             {
                 "name": "Group B",
-                "link": "https://t.me/me"
-            },
-            {
-                "name": "Group D",
                 "link": "https://t.me/me"
             }
         ]
