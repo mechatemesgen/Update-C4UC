@@ -106,5 +106,27 @@
                 "link": "https://t.me/me"
             }
         ]
+    },
+    {
+        "firstName": "Nimona",
+        "applicationNumber": "UCA001012",
+        "status": "Rejected",
+        "letter": "Dear Nimona, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
+        "plan": "basic",
+        "category": "category1",
+        "telegramGroups": [
+            {
+                "name": "Group C",
+                "link": "https://t.me/me"
+            },
+            {
+                "name": "Group E",
+                "link": "https://t.me/me"
+            },
+            {
+                "name": "Group A",
+                "link": "https://t.me/me"
+            }
+        ]
     }
 ]
