@@ -1,0 +1,28 @@
+[
+    {
+        "firstName": "John",
+        "applicationNumber": "UCa123456",
+        "status": "Approved",
+        "letter": "Dear John, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
+        "plan": "basic",
+        "category": "category1",
+        "telegramGroups": [
+            {
+                "name": "Group B",
+                "link": "https://t.me/me"
+            },
+            {
+                "name": "Group E",
+                "link": "https://t.me/me"
+            }
+        ]
+    },
+    {
+        "firstName": "Jane",
+        "applicationNumber": "UCA002",
+        "status": "Pending",
+        "letter": "Dear Jane, Your application is currently under review. We will get back to you shortly with a decision.",
+        "telegramGroups": []
+    }
+]
+
