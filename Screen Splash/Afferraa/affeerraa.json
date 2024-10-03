@@ -206,19 +206,23 @@
         ]
     },
     {
-        "firstName": "Demeke Ababe ",
+        "firstName": "Kumsa Moroda",
         "applicationNumber": "UCA1258741",
-        "status": "Pending",
-        "letter": "Dear Demeke Ababe , Your application is currently under review. We will get back to you shortly with a decision.",
-        "plan": "basic",
-        "category": "category1",
+        "status": "Approved",
+        "letter": "Dear Kumsa Moroda, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
+        "plan": "combined",
+        "category": "bothCategories",
         "telegramGroups": [
             {
                 "name": "Group A",
                 "link": "https://t.me/me"
             },
             {
-                "name": "Group E",
+                "name": "Group D",
+                "link": "https://t.me/me"
+            },
+            {
+                "name": "Group D",
                 "link": "https://t.me/me"
             }
         ]
