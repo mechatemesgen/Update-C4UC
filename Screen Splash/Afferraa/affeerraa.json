@@ -204,5 +204,23 @@
                 "link": "https://t.me/me"
             }
         ]
+    },
+    {
+        "firstName": "Ababe Demeke",
+        "applicationNumber": "UCA125874",
+        "status": "Pending",
+        "letter": "Dear Ababe Demeke, Your application is currently under review. We will get back to you shortly with a decision.",
+        "plan": "basic",
+        "category": "category1",
+        "telegramGroups": [
+            {
+                "name": "Group A",
+                "link": "https://t.me/me"
+            },
+            {
+                "name": "Group E",
+                "link": "https://t.me/me"
+            }
+        ]
     }
 ]
