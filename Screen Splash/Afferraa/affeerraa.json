@@ -338,5 +338,28 @@
                 "link": "https://t.me/me"
             }
         ]
+    },
+    {
+        "firstName": "Merga",
+        "applicationNumber": "UCa0101",
+        "status": "Approved",
+        "letter": "Dear Merga, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
+        "plan": "Basic",
+        "category": "Category-2",
+        "phone": "+251961768848",
+        "telegramGroups": [
+            {
+                "name": "Category-2",
+                "link": "https://t.me/u_canacademy"
+            },
+            {
+                "name": "Exam-Practice-C2",
+                "link": "https://t.me/u_canacademy"
+            },
+            {
+                "name": "UCA-Quiz",
+                "link": "https://t.me/u_canacademy"
+            }
+        ]
     }
 ]
