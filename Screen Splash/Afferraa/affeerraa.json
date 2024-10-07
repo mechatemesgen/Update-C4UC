@@ -296,5 +296,24 @@
                 "link": "https://t.me/me"
             }
         ]
+    },
+    {
+        "firstName": "Mecha",
+        "applicationNumber": "UCA00110022",
+        "status": "Approved",
+        "letter": "Dear Mecha, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
+        "plan": "Basic",
+        "category": "Category-2",
+        "phone": "+251961768848",
+        "telegramGroups": [
+            {
+                "name": "Group B",
+                "link": "https://t.me/me"
+            },
+            {
+                "name": "Group A",
+                "link": "https://t.me/me"
+            }
+        ]
     }
 ]
