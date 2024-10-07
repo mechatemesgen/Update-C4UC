@@ -244,5 +244,24 @@
                 "link": "https://t.me/me"
             }
         ]
+    },
+    {
+        "firstName": "Mecha Temesgen Merga",
+        "applicationNumber": "UCa0003",
+        "status": "Approved",
+        "letter": "Dear Mecha Temesgen Merga, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
+        "plan": "basic",
+        "category": "category1",
+        "phone": "+251961768848",
+        "telegramGroups": [
+            {
+                "name": "Group B",
+                "link": "https://t.me/me"
+            },
+            {
+                "name": "Group D",
+                "link": "https://t.me/me"
+            }
+        ]
     }
 ]
