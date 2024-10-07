@@ -246,12 +246,12 @@
         ]
     },
     {
-        "firstName": "Mecha Temesgen Merga",
-        "applicationNumber": "UCa0003",
+        "firstName": "Kotoran",
+        "applicationNumber": "UCa00123456",
         "status": "Approved",
-        "letter": "Dear Mecha Temesgen Merga, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
-        "plan": "basic",
-        "category": "category1",
+        "letter": "Dear Kotoran, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
+        "plan": "combined",
+        "category": "bothCategories",
         "phone": "+251961768848",
         "telegramGroups": [
             {
@@ -259,7 +259,11 @@
                 "link": "https://t.me/me"
             },
             {
-                "name": "Group D",
+                "name": "Group B",
+                "link": "https://t.me/me"
+            },
+            {
+                "name": "Group C",
                 "link": "https://t.me/me"
             }
         ]
