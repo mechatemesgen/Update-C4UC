@@ -267,5 +267,15 @@
                 "link": "https://t.me/me"
             }
         ]
+    },
+    {
+        "firstName": "",
+        "applicationNumber": "",
+        "status": "",
+        "letter": "",
+        "plan": "",
+        "category": "",
+        "phone": "",
+        "telegramGroups": []
     }
 ]
