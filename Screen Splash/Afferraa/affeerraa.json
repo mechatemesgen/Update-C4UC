@@ -372,5 +372,28 @@
                 "link": "https://t.me/u_canacademy"
             }
         ]
+    },
+    {
+        "firstName": "Nimona",
+        "applicationNumber": "UCA0000",
+        "status": "Approved",
+        "letter": "Dear Nimona, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
+        "plan": "Basic",
+        "category": "Category-2",
+        "phone": "0961768848",
+        "telegramGroups": [
+            {
+                "name": "Category-2",
+                "link": "https://t.me/u_canacademy"
+            },
+            {
+                "name": "Exam-Practice-C2",
+                "link": "https://t.me/u_canacademy"
+            },
+            {
+                "name": "UCA-Quiz",
+                "link": "https://t.me/u_canacademy"
+            }
+        ]
     }
 ]
