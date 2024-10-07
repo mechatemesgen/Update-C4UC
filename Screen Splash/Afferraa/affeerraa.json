@@ -155,7 +155,12 @@
         "plan": "Basic",
         "category": "Category-2",
         "phone": "+251905791312",
-        "telegramGroups": []
+        "telegramGroups": [
+            {
+                "name": "Exam-Practice-C2",
+                "link": "fgfgfr"
+            }
+        ]
     },
     {
         "firstName": "kotoran",
