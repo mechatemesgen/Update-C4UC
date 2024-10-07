@@ -300,8 +300,8 @@
     {
         "firstName": "Mecha",
         "applicationNumber": "UCA00110022",
-        "status": "Approved",
-        "letter": "Dear Mecha, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
+        "status": "Pending",
+        "letter": "Dear Mecha, Your application is currently under review. We will get back to you shortly with a decision.",
         "plan": "Basic",
         "category": "Category-2",
         "phone": "+251961768848",
