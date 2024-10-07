@@ -342,8 +342,8 @@
     {
         "firstName": "Merga",
         "applicationNumber": "UCa0101",
-        "status": "Pending",
-        "letter": "Dear Merga, Your application is currently under review. We will get back to you shortly with a decision.",
+        "status": "Approved",
+        "letter": "Dear Merga, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
         "plan": "Basic",
         "category": "Category-2",
         "phone": "+251961768848",
