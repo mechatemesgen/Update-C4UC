@@ -61,5 +61,12 @@
         "detailHeader": "",
         "imageSrc": "",
         "coinImageSrc": "./src/images/card_images/u-can coin.png"
+    },
+    {
+        "id": 11,
+        "title": "Title",
+        "detailHeader": "Details",
+        "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
+        "coinImageSrc": "./src/images/card_images/u-can coin.png"
     }
 ]
