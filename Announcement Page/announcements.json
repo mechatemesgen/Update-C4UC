@@ -54,7 +54,12 @@
         "detailHeader": "The Announcement 2 Detail Header goes here.",
         "imageSrc": "./src/images/card_images/placeholder.png",
         "coinImageSrc": "./src/images/card_images/u-can coin.png"
+    },
+    {
+        "id": 9,
+        "title": "Announcement 9",
+        "detailHeader": "This is for test only",
+        "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
+        "coinImageSrc": "./src/images/card_images/u-can coin.png"
     }
-
-  
 ]
