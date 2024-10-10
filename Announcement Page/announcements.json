@@ -56,13 +56,6 @@
         "coinImageSrc": "./src/images/card_images/u-can coin.png"
     },
     {
-        "id": null,
-        "title": "",
-        "detailHeader": "",
-        "imageSrc": "",
-        "coinImageSrc": "./src/images/card_images/u-can coin.png"
-    },
-    {
         "id": 11,
         "title": "Title",
         "detailHeader": "Details",
