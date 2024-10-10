@@ -1,9 +1,9 @@
 [
     {
         "id": 1,
-        "title": "New Cards here",
-        "detailHeader": "The Announcement 1 Detail Header goes here.",
-        "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/huca3.jpg",
+        "title": "",
+        "detailHeader": "",
+        "imageSrc": "",
         "coinImageSrc": "./src/images/card_images/u-can coin.png"
     },
     {
