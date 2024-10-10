@@ -49,13 +49,6 @@
         "coinImageSrc": "./src/images/card_images/u-can coin.png"
     },
     {
-        "id": 8,
-        "title": "Announcement 2",
-        "detailHeader": "The Announcement 2 Detail Header goes here.",
-        "imageSrc": "./src/images/card_images/placeholder.png",
-        "coinImageSrc": "./src/images/card_images/u-can coin.png"
-    },
-    {
         "id": 9,
         "title": "Test Topic Hello World",
         "detailHeader": "The title details goes here..",
