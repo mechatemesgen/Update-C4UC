@@ -1,4 +1,4 @@
-
+[
   {
     "announcements": [
       {
@@ -281,7 +281,7 @@
     "goodLuckMessage": "U-CAN Academy "
   },
   {
-    "id": 7,
+    "id": 3,
     "title": "New U-CAN Academy 7 Update",
     "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
     "content": [
@@ -313,3 +313,4 @@
     "steps": [],
     "goodLuckMessage": "U-CAN Academy "
   }
+]
