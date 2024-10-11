@@ -1,5 +1,4 @@
-[
-  {
+{
     "announcements": [
       {
         "id": 1,
@@ -247,38 +246,103 @@
     "steps": [],
     "goodLuckMessage": "U-CAN Academy "
   },
-  {
-    "id": 6,
-    "title": "U-CAN Academy ",
-    "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
-    "content": [
-      {
-        "type": "h2",
-        "text": "U-CAN Academy "
+   {
+        "id": 6,
+        "title": "Weekly Contest",
+        "imageSrc": "path/to/main-hero-image.jpg",
+        "content": [
+          {
+            "type": "h2",
+            "text": "Exciting Contest This Week!"
+          },
+          {
+            "type": "p",
+            "text": "We are excited to announce this week's contest. Get ready to participate in various challenges and win amazing prizes!"
+          },
+          {
+            "type": "img",
+            "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg"
+          },
+          {
+            "type": "p",
+            "text": "Make sure to follow all the steps below to ensure your participation."
+          },
+          {
+            "type": "ul",
+            "items": [
+              "Register before the deadline.",
+              "Complete the challenge as instructed.",
+              "Submit your entry within the provided time frame."
+            ]
+          }
+        ],
+        "steps": [
+          {
+            "title": "Step 1: Register",
+            "description": "Sign up for the contest on our official contest page."
+          },
+          {
+            "title": "Step 2: Participate",
+            "description": "Complete all the challenges provided within the time limit."
+          },
+          {
+            "type": "img",
+            "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg"
+          },
+          {
+            "title": "Step 3: Submit",
+            "description": "Submit your completed entry through the submission form before the deadline."
+          }
+        ],
+        "goodLuckMessage": "Good luck to all participants! We can't wait to see your amazing entries."
       },
-      {
-        "type": "p",
-        "text": "U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy "
-      },
-      {
-        "type": "h3",
-        "text": "U-CAN Academy "
-      },
-      {
-        "type": "p",
-        "text": "U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy "
-      },
-      {
-        "type": "img",
-        "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg"
-      },
-      {
-        "type": "p",
-        "text": "U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy "
+ {
+        "id": 7,
+        "title": "Weekly Contest",
+        "imageSrc": "path/to/main-hero-image.jpg",
+        "content": [
+          {
+            "type": "h2",
+            "text": "Exciting Contest This Week!"
+          },
+          {
+            "type": "p",
+            "text": "We are excited to announce this week's contest. Get ready to participate in various challenges and win amazing prizes!"
+          },
+          {
+            "type": "img",
+            "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg"
+          },
+          {
+            "type": "p",
+            "text": "Make sure to follow all the steps below to ensure your participation."
+          },
+          {
+            "type": "ul",
+            "items": [
+              "Register before the deadline.",
+              "Complete the challenge as instructed.",
+              "Submit your entry within the provided time frame."
+            ]
+          }
+        ],
+        "steps": [
+          {
+            "title": "Step 1: Register",
+            "description": "Sign up for the contest on our official contest page."
+          },
+          {
+            "title": "Step 2: Participate",
+            "description": "Complete all the challenges provided within the time limit."
+          },
+          {
+            "type": "img",
+            "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg"
+          },
+          {
+            "title": "Step 3: Submit",
+            "description": "Submit your completed entry through the submission form before the deadline."
+          }
+        ],
+        "goodLuckMessage": "Good luck to all participants! We can't wait to see your amazing entries."
       }
-    ],
-    "steps": [],
-    "goodLuckMessage": "U-CAN Academy "
-  }
-
-]
