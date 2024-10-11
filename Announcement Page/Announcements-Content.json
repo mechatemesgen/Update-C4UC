@@ -211,10 +211,8 @@
                 ],
                 "steps": [],
                 "goodLuckMessage": ""
-            }
-        ]
-    },
-    {
+            },
+              {
         "id": 8,
         "title": "title",
         "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
@@ -231,3 +229,6 @@
         "steps": [],
         "goodLuckMessage": ""
     }
+        ]
+    }
+  
