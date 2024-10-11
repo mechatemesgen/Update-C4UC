@@ -1,9 +1,9 @@
 [
     {
         "id": 1,
-        "title": "New Cards here",
-        "detailHeader": "The Announcement 1 Detail Header goes here.",
-        "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/huca3.jpg",
+        "title": "Weekly Contest Info",
+        "detailHeader": "Are you ready to join U-CAN Academy?",
+        "imageSrc": "./src/images/card_images/placeholder.png",
         "coinImageSrc": "./src/images/card_images/u-can coin.png"
     },
     {
@@ -50,11 +50,16 @@
     },
     {
         "id": 8,
-        "title": "Announcement 2",
-        "detailHeader": "The Announcement 2 Detail Header goes here.",
-        "imageSrc": "./src/images/card_images/placeholder.png",
+        "title": "Test Topic Hello World",
+        "detailHeader": "The title details goes here..",
+        "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
+        "coinImageSrc": "./src/images/card_images/u-can coin.png"
+    },
+    {
+        "id": 11,
+        "title": "U-CAN Academy Weekly Contest.",
+        "detailHeader": "Be Ready! Stay Toned U-CAN Academy Weekly Contest is going to start now!",
+        "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
         "coinImageSrc": "./src/images/card_images/u-can coin.png"
     }
-
-  
 ]
