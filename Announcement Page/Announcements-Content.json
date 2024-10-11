@@ -279,5 +279,38 @@
     ],
     "steps": [],
     "goodLuckMessage": "U-CAN Academy "
+  },
+  {
+    "id": 7,
+    "title": "U-CAN Academy ",
+    "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
+    "content": [
+      {
+        "type": "h2",
+        "text": "U-CAN Academy "
+      },
+      {
+        "type": "p",
+        "text": "U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy "
+      },
+      {
+        "type": "h3",
+        "text": "U-CAN Academy "
+      },
+      {
+        "type": "p",
+        "text": "U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy "
+      },
+      {
+        "type": "img",
+        "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg"
+      },
+      {
+        "type": "p",
+        "text": "U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy U-CAN Academy "
+      }
+    ],
+    "steps": [],
+    "goodLuckMessage": "U-CAN Academy "
   }
 ]
