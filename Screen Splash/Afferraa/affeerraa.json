@@ -464,5 +464,33 @@
             }
         ],
         "dateSubmitted": "2024-10-20T13:49:11.346Z"
+    },
+    {
+        "firstName": "Abdi",
+        "applicationNumber": "UCA0711777",
+        "status": "Approved",
+        "letter": "Dear Abdi, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
+        "plan": "Combined",
+        "category": "Both-Categories",
+        "phone": "0932289470",
+        "telegramGroups": [
+            {
+                "name": "Category-1",
+                "link": "https://t.me/u_canacademy"
+            },
+            {
+                "name": "UCA-Quiz",
+                "link": "https://t.me/u_canacademy"
+            },
+            {
+                "name": "Exam-Practice-C1",
+                "link": "https://t.me/u_canacademy"
+            },
+            {
+                "name": "Exam-Practice-C2",
+                "link": "https://t.me/u_canacademy"
+            }
+        ],
+        "dateSubmitted": "2024-10-20T14:16:47.891Z"
     }
 ]
