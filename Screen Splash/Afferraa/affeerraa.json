@@ -98,5 +98,33 @@
             }
         ],
         "dateSubmitted": "2024-10-20T14:16:47.891Z"
+    },
+    {
+        "firstName": "John",
+        "applicationNumber": "UCA0711744",
+        "status": "Pending",
+        "letter": "Dear John, Your application is currently under review. We will get back to you shortly with a decision.",
+        "plan": "Combined",
+        "category": "Both-Categories",
+        "phone": "0932289470",
+        "telegramGroups": [
+            {
+                "name": "Category-1",
+                "link": "https://t.me/u_canacademy"
+            },
+            {
+                "name": "UCA-Quiz",
+                "link": "https://t.me/u_canacademy"
+            },
+            {
+                "name": "Exam-Practice-C1",
+                "link": "https://t.me/u_canacademy"
+            },
+            {
+                "name": "Exam-Practice-C2",
+                "link": "https://t.me/u_canacademy"
+            }
+        ],
+        "dateSubmitted": "2024-10-20T14:36:29.594Z"
     }
 ]
