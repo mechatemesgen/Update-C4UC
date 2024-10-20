@@ -100,10 +100,10 @@
         "dateSubmitted": "2024-10-20T14:16:47.891Z"
     },
     {
-        "firstName": "John",
-        "applicationNumber": "UCA0711744",
+        "firstName": "Jane",
+        "applicationNumber": "UCA0711743",
         "status": "Pending",
-        "letter": "Dear John, Your application is currently under review. We will get back to you shortly with a decision.",
+        "letter": "Dear Jane, Your application is currently under review. We will get back to you shortly with a decision.",
         "plan": "Combined",
         "category": "Both-Categories",
         "phone": "0932289470",
@@ -125,6 +125,6 @@
                 "link": "https://t.me/u_canacademy"
             }
         ],
-        "dateSubmitted": "2024-10-20T14:36:29.594Z"
+        "dateSubmitted": "2024-10-20T14:36:52.444Z"
     }
 ]
