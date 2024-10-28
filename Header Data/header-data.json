@@ -1,8 +1,8 @@
 {
   "hero": {
-    "title": "U-CAN Academy",
+    "title": "Are you ready?",
     "subtitle": "U-CAN Academy E-Learning Platform will be launched soon!",
     "detail": "Be Ready! Stay Tuned!",
-    "image": "https://raw.githubusercontent.com/U-CAN-Academy/E-Learning/main/src/img/header-welcome.png"
+    "image": "https://raw.githubusercontent.com/U-CAN-Academy/E-Learning/main/src/img/hero-image-1.jpg"
   }
 }
