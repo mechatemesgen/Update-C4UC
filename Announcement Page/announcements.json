@@ -54,12 +54,5 @@
         "detailHeader": "The title details goes here..",
         "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
         "coinImageSrc": "./src/images/card_images/u-can coin.png"
-    },
-    {
-        "id": 11,
-        "title": "U-CAN Academy Weekly Contest.",
-        "detailHeader": "Be Ready! Stay Toned U-CAN Academy Weekly Contest is going to start now!",
-        "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
-        "coinImageSrc": "./src/images/card_images/u-can coin.png"
     }
 ]
