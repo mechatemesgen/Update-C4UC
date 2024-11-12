@@ -28,13 +28,6 @@
         "coinImageSrc": "./src/images/card_images/u-can coin.png"
     },
     {
-        "id": 5,
-        "title": "Announcement 1",
-        "detailHeader": "The Announcement 1 Detail Header goes here.",
-        "imageSrc": "./src/images/card_images/placeholder.png",
-        "coinImageSrc": "./src/images/card_images/u-can coin.png"
-    },
-    {
         "id": 6,
         "title": "Announcement 2",
         "detailHeader": "The Announcement 2 Detail Header goes here.",
