@@ -28,13 +28,6 @@
         "coinImageSrc": "./src/images/card_images/u-can coin.png"
     },
     {
-        "id": 7,
-        "title": "U-CAN Academy",
-        "detailHeader": "The Announcement 1 Detail Header goes here.",
-        "imageSrc": "./src/images/card_images/placeholder.png",
-        "coinImageSrc": "./src/images/card_images/u-can coin.png"
-    },
-    {
         "id": 8,
         "title": "Test Topic Hello World",
         "detailHeader": "The title details goes here..",
