@@ -1,8 +1,8 @@
 {
   "splash": {
     "title": "",
-    "logo": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Screen%20Splash/Splash_Screen/logo.png",
-    "backgroundImage": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Screen%20Splash/Splash_Screen/newblacksplash-v04.png",
+    "logo": "https://raw.githubusercontent.com/U-CAN-Academy/E-Learning/main/src/icon-and-logo/logos/logo.png",
+    "backgroundImage": "https://raw.githubusercontent.com/U-CAN-Academy/E-Learning/main/src/img/Splash-Image/newucasplashbg.png",
     "technicalissue": "off"
   }
 }
