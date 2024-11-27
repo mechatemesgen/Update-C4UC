@@ -1,12 +1,5 @@
 [
     {
-        "id": 8,
-        "title": "Test Topic Hello World",
-        "detailHeader": "The title details goes here..",
-        "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
-        "coinImageSrc": "./src/images/card_images/u-can coin.png"
-    },
-    {
         "id": 2,
         "title": "U-CAN at AASTU",
         "detailHeader": "U-CAN Academy is here to support AASTU students on their academic journey!",
