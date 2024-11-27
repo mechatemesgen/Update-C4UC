@@ -1,12 +1,5 @@
 [
     {
-        "id": 4,
-        "title": "Announcement 2",
-        "detailHeader": "The Announcement 2 Detail Header goes here.",
-        "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Home%20Page%20NFT/home-page-nft/f2.jpg",
-        "coinImageSrc": "./src/images/card_images/u-can coin.png"
-    },
-    {
         "id": 8,
         "title": "Test Topic Hello World",
         "detailHeader": "The title details goes here..",
