@@ -8,9 +8,9 @@
     },
     {
         "id": 3,
-        "title": "U-CAN Academy at AAU",
-        "detailHeader": "U-CAN Academy is here to support AAU students on their academic journey!",
-        "imageSrc": "https://raw.githubusercontent.com/U-CAN-Academy/E-Learning/main/src/icon-and-logo/logos/Addis%20Ababa%20University%20Logo.svg",
+        "title": "U-CAN Academy at AASTU",
+        "detailHeader": "U-CAN Academy is here to support AASTU students on their academic journey!",
+        "imageSrc": "https://raw.githubusercontent.com/U-CAN-Academy/E-Learning/main/src/icon-and-logo/logos/aastu%20wbg%20logo.jpg",
         "coinImageSrc": "https://raw.githubusercontent.com/U-CAN-Academy/E-Learning/main/src/icon-and-logo/uca-icons/u-can%20coin.png"
     }
 ]
