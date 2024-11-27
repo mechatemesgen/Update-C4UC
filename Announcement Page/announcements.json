@@ -12,5 +12,12 @@
         "detailHeader": "U-CAN Academy is here to support AASTU students on their academic journey!",
         "imageSrc": "https://raw.githubusercontent.com/U-CAN-Academy/E-Learning/main/src/icon-and-logo/logos/aastu%20wbg%20logo.jpg",
         "coinImageSrc": "https://raw.githubusercontent.com/U-CAN-Academy/E-Learning/main/src/icon-and-logo/uca-icons/u-can%20coin.png"
+    },
+    {
+        "id": 1,
+        "title": "U-CAN Academy at ASTU",
+        "detailHeader": "U-CAN Academy is here to support ASTU students on their academic journey!",
+        "imageSrc": "https://raw.githubusercontent.com/U-CAN-Academy/E-Learning/main/src/icon-and-logo/logos/astu%20adama%20logo.jpg",
+        "coinImageSrc": "https://raw.githubusercontent.com/U-CAN-Academy/E-Learning/main/src/icon-and-logo/uca-icons/u-can%20coin.png"
     }
 ]
