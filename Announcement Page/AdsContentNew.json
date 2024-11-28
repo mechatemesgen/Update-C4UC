@@ -1,234 +1,104 @@
-[
-    {
-        "announcements": [
-            {
-                "id": 1,
-                "title": "Weekly Contest",
-                "imageSrc": "path/to/main-hero-image.jpg",
-                "content": [
-                    {
-                        "type": "h2",
-                        "text": "Exciting Contest This Week!"
-                    },
-                    {
-                        "type": "p",
-                        "text": "We are excited to announce this week's contest. Get ready to participate in various challenges and win amazing prizes!"
-                    },
-                    {
-                        "type": "img",
-                        "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg"
-                    },
-                    {
-                        "type": "p",
-                        "text": "Make sure to follow all the steps below to ensure your participation."
-                    },
-                    {
-                        "type": "ul",
-                        "items": [
-                            "Register before the deadline.",
-                            "Complete the challenge as instructed.",
-                            "Submit your entry within the provided time frame."
-                        ]
-                    }
-                ],
-                "steps": [
-                    {
-                        "title": "Step 1: Register",
-                        "description": "Sign up for the contest on our official contest page."
-                    },
-                    {
-                        "title": "Step 2: Participate",
-                        "description": "Complete all the challenges provided within the time limit."
-                    },
-                    {
-                        "type": "img",
-                        "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg"
-                    },
-                    {
-                        "title": "Step 3: Submit",
-                        "description": "Submit your completed entry through the submission form before the deadline."
-                    }
-                ],
-                "goodLuckMessage": "Good luck to all participants! We can't wait to see your amazing entries."
-            },
-            {
-                "id": 2,
-                "title": "New Features Announcement",
-                "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
-                "content": [
-                    {
-                        "type": "h2",
-                        "text": "Introducing New Features!"
-                    },
-                    {
-                        "type": "p",
-                        "text": "We are thrilled to announce new features that will enhance your experience."
-                    },
-                    {
-                        "type": "img",
-                        "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
-                        "alt": "New Features"
-                    },
-                    {
-                        "type": "ul",
-                        "items": [
-                            "Improved user interface for easier navigation.",
-                            "New dashboard for tracking your progress.",
-                            "Personalized notifications based on your activity."
-                        ]
-                    },
-                    {
-                        "type": "p",
-                        "text": "These features are designed to make your experience more enjoyable and productive."
-                    }
-                ],
-                "steps": [
-                    {
-                        "title": "Step 1: Explore the Dashboard",
-                        "description": "Check out the new features on your dashboard."
-                    },
-                    {
-                        "title": "Step 2: Customize Notifications",
-                        "description": "Set up personalized notifications based on your interests."
-                    }
-                ],
-                "goodLuckMessage": "We hope you enjoy these new features! Let us know your feedback."
-            },
-            {
-                "id": 3,
-                "title": "Happy New Year 2017",
-                "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
-                "content": [
-                    {
-                        "type": "h2",
-                        "text": "Happy New Year 2017"
-                    },
-                    {
-                        "type": "p",
-                        "text": "Happy New Year 2017"
-                    },
-                    {
-                        "type": "img",
-                        "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
-                        "alt": "Happy New Year 2017"
-                    },
-                    {
-                        "type": "p",
-                        "text": "Happy New Year 2017"
-                    },
-                    {
-                        "type": "h3",
-                        "text": "Happy New Year 2017"
-                    },
-                    {
-                        "type": "h2",
-                        "text": "Happy New Year 2017"
-                    },
-                    {
-                        "type": "p",
-                        "text": "Happy New Year 2017"
-                    },
-                    {
-                        "type": "img",
-                        "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
-                        "alt": "Happy New Year 2017"
-                    },
-                    {
-                        "type": "p",
-                        "text": "Happy New Year 2017"
-                    },
-                    {
-                        "type": "h3",
-                        "text": "Happy New Year 2017"
-                    }
-                ],
-                "steps": [],
-                "goodLuckMessage": ""
-            },
-            {
-                "id": 4,
-                "title": "U-CAN Academy Registration",
-                "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
-                "content": [
-                    {
-                        "type": "h2",
-                        "text": "U-CAN Academy Registration"
-                    },
-                    {
-                        "type": "p",
-                        "text": "U-CAN Academy Registration It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-                    },
-                    {
-                        "type": "img",
-                        "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg"
-                    },
-                    {
-                        "type": "h3",
-                        "text": "U-CAN Academy Registration"
-                    },
-                    {
-                        "type": "p",
-                        "text": "U-CAN Academy Registration It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-                    },
-                    {
-                        "type": "img",
-                        "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg"
-                    },
-                    {
-                        "type": "p",
-                        "text": "U-CAN Academy Registration It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-                    }
-                ],
-                "steps": [],
-                "goodLuckMessage": ""
-            },
-            {
-                "id": 5,
-                "title": "Happy New Year 2017",
-                "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
-                "content": [
-                    {
-                        "type": "h2",
-                        "text": "Happy New Year 2017"
-                    },
-                    {
-                        "type": "p",
-                        "text": "Happy New Year 2017"
-                    },
-                    {
-                        "type": "img",
-                        "src": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
-                        "alt": "Happy New Year 2017"
-                    },
-                    {
-                        "type": "p",
-                        "text": "Happy New Year 2017"
-                    },
-                    {
-                        "type": "h3",
-                        "text": "Happy New Year 2017"
-                    }
-                ],
-                "steps": [],
-                "goodLuckMessage": ""
-            }
-        ]
-    },
-    {
-        "id": 8,
-        "title": "title",
-        "imageSrc": "https://raw.githubusercontent.com/mechatemesgen/Update-C4UC/main/Announcement%20NFT/Images/hny%202017.jpg",
-        "content": [
-            {
-                "type": "h2",
-                "text": "Heading 2"
-            },
-            {
-                "type": "",
-                "text": "Program Program Program Program Program Program Program Program Program Program Program Program Program "
-            }
-        ],
-        "steps": [],
-        "goodLuckMessage": ""
-    }
-]
+{
+    "announcements": [
+      {
+    "id": 2,
+    "title": "AASTU",
+    "imageSrc": "https://raw.githubusercontent.com/U-CAN-Academy/E-Learning/main/src/icon-and-logo/logos/aastu%20wbg%20logo.jpg",
+    "content": [
+        {
+            "type": "h2",
+            "text": "Welcome, AASTU Students!"
+        },
+        {
+            "type": "p",
+            "text": "We’re thrilled to welcome you to the U-CAN Academy E-Learning Platform!  By joining us, you’ve shown your drive to grow and achieve more in your academic journey. At U-CAN Academy, we’re here to provide practical and engaging resources to support you every step of the way.  Thank you for making us a part of your learning experience. Together, U-CAN Learn Beyond Expected!  Here’s to your success and endless opportunities ahead!  #U_CAN_Academy #Learn_Beyond_Expected"
+        },
+        {
+            "type": "img",
+            "src": "https://raw.githubusercontent.com/U-CAN-Academy/E-Learning/main/src/icon-and-logo/logos/aastu%20wbg%20logo.jpg"
+        },
+        {
+            "type": "p",
+            "text": ""
+        }
+    ],
+    "steps": [],
+    "goodLuckMessage": "Don’t keep this amazing opportunity to yourself spread the word! If you know any first-year university or college students who are eager to succeed and make the most of their studies, invite them to join U-CAN Academy.  Together, we can create a vibrant learning community where every student grows, learns, and achieves beyond expectations!  Share the link today and let’s make this academic journey unforgettable.  #U_CAN_Academy #Learn_Beyond_Expected #ShareTheOpportunity"
+},
+        {
+    "id": 3,
+    "title": "AAU",
+    "imageSrc": "https://raw.githubusercontent.com/U-CAN-Academy/E-Learning/refs/heads/main/src/icon-and-logo/logos/Addis%20Ababa%20Universty%20Logo%20New%20feet.webp",
+    "content": [
+        {
+            "type": "h2",
+            "text": "Welcome, AAU Students!"
+        },
+        {
+            "type": "p",
+            "text": "We’re thrilled to welcome you to the U-CAN Academy E-Learning Platform!  By joining us, you’ve shown your drive to grow and achieve more in your academic journey. At U-CAN Academy, we’re here to provide practical and engaging resources to support you every step of the way.  Thank you for making us a part of your learning experience. Together, U-CAN Learn Beyond Expected!  Here’s to your success and endless opportunities ahead!  #U_CAN_Academy #Learn_Beyond_Expected"
+        },
+        {
+            "type": "img",
+            "src": "https://raw.githubusercontent.com/U-CAN-Academy/E-Learning/refs/heads/main/src/icon-and-logo/logos/Addis%20Ababa%20Universty%20Logo%20New%20feet.webp"
+        },
+        {
+            "type": "p",
+            "text": ""
+        }
+    ],
+    "steps": [],
+    "goodLuckMessage": "Don’t keep this amazing opportunity to yourself spread the word! If you know any first-year university or college students who are eager to succeed and make the most of their studies, invite them to join U-CAN Academy.  Together, we can create a vibrant learning community where every student grows, learns, and achieves beyond expectations!  Share the link today and let’s make this academic journey unforgettable.  #U_CAN_Academy #Learn_Beyond_Expected #ShareTheOpportunity"
+},
+         {
+    "id": 1,
+    "title": "ASTU",
+    "imageSrc": "https://raw.githubusercontent.com/U-CAN-Academy/E-Learning/main/src/icon-and-logo/logos/ASTU%20loooggg.png",
+    "content": [
+        {
+            "type": "h2",
+            "text": "Welcome, ASTU Students!"
+        },
+        {
+            "type": "p",
+            "text": "We’re thrilled to welcome you to the U-CAN Academy E-Learning Platform!  By joining us, you’ve shown your drive to grow and achieve more in your academic journey. At U-CAN Academy, we’re here to provide practical and engaging resources to support you every step of the way.  Thank you for making us a part of your learning experience. Together, U-CAN Learn Beyond Expected!  Here’s to your success and endless opportunities ahead!  #U_CAN_Academy #Learn_Beyond_Expected"
+        },
+        {
+            "type": "img",
+            "src": "https://raw.githubusercontent.com/U-CAN-Academy/E-Learning/main/src/icon-and-logo/logos/ASTU%20loooggg.png"
+        },
+        {
+            "type": "p",
+            "text": ""
+        }
+    ],
+    "steps": [],
+    "goodLuckMessage": "Don’t keep this amazing opportunity to yourself spread the word! If you know any first-year university or college students who are eager to succeed and make the most of their studies, invite them to join U-CAN Academy.  Together, we can create a vibrant learning community where every student grows, learns, and achieves beyond expectations!  Share the link today and let’s make this academic journey unforgettable.  #U_CAN_Academy #Learn_Beyond_Expected #ShareTheOpportunity"
+},
+        {
+    "id": 4,
+    "title": "HEUC",
+    "imageSrc": "https://raw.githubusercontent.com/U-CAN-Academy/E-Learning/main/src/icon-and-logo/logos/Hope%20Univ%20logo.jpg",
+    "content": [
+        {
+            "type": "h2",
+            "text": "Welcome, HEUC Students!"
+        },
+        {
+            "type": "p",
+            "text": "We’re thrilled to welcome you to the U-CAN Academy E-Learning Platform!  By joining us, you’ve shown your drive to grow and achieve more in your academic journey. At U-CAN Academy, we’re here to provide practical and engaging resources to support you every step of the way.  Thank you for making us a part of your learning experience. Together, U-CAN Learn Beyond Expected!  Here’s to your success and endless opportunities ahead!  #U_CAN_Academy #Learn_Beyond_Expected"
+        },
+        {
+            "type": "img",
+            "src": "https://raw.githubusercontent.com/U-CAN-Academy/E-Learning/main/src/icon-and-logo/logos/Hope%20Univ%20logo.jpg"
+        },
+        {
+            "type": "p",
+            "text": ""
+        }
+    ],
+    "steps": [],
+    "goodLuckMessage": "Don’t keep this amazing opportunity to yourself spread the word! If you know any first-year university or college students who are eager to succeed and make the most of their studies, invite them to join U-CAN Academy.  Together, we can create a vibrant learning community where every student grows, learns, and achieves beyond expectations!  Share the link today and let’s make this academic journey unforgettable.  #U_CAN_Academy #Learn_Beyond_Expected #ShareTheOpportunity"
+}
+    ]
+}
