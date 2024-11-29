@@ -374,5 +374,16 @@
             }
         ],
         "dateSubmitted": "2024-11-29T08:31:14.167Z"
+    },
+    {
+        "firstName": "Mecha",
+        "applicationNumber": "UCA12312301",
+        "status": "Approved",
+        "letter": "Dear Mecha, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
+        "plan": "Basic",
+        "category": "Category-1",
+        "phone": "0961768848",
+        "telegramGroups": [],
+        "dateSubmitted": "2024-11-29T08:40:17.681Z"
     }
 ]
