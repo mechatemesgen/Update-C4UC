@@ -314,5 +314,25 @@
             }
         ],
         "dateSubmitted": "2024-11-27T17:04:15.269Z"
+    },
+    {
+        "firstName": "Gelila",
+        "applicationNumber": "UCA66100010",
+        "status": "Approved",
+        "letter": "Dear Gelila, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
+        "plan": "Combined",
+        "category": "Both-Categories",
+        "phone": "0942504494",
+        "telegramGroups": [
+            {
+                "name": "Exam-Practice-C1",
+                "link": "https://t.me/+6PC_KFArCDkzYTU0"
+            },
+            {
+                "name": "Exam-Practice-C2",
+                "link": "https://t.me/+pjR9Vwxg2ZIwNmVk"
+            }
+        ],
+        "dateSubmitted": "2024-11-29T07:54:09.282Z"
     }
 ]
