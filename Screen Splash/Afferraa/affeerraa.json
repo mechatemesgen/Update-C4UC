@@ -1,295 +1,27 @@
 [
     {
-        "firstName": "Tumsa",
-        "applicationNumber": "UCA7711772",
+        "firstName": "Test",
+        "applicationNumber": "UCA123456",
         "status": "Approved",
-        "letter": "Dear Tumsa, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
+        "letter": "Dear Test, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
         "plan": "Basic",
         "category": "Category-1",
-        "phone": "09612345678",
+        "phone": "0912345678",
         "telegramGroups": [
             {
                 "name": "Category-1",
-                "link": "https://t.me/u_canacademy"
+                "link": "https://t.me/ucanacademyofficial"
             },
             {
                 "name": "Exam-Practice-C1",
-                "link": "https://t.me/u_canacademy"
+                "link": "https://t.me/ucanacademyofficial"
             },
             {
                 "name": "UCA-Quiz",
-                "link": "https://t.me/u_canacademy"
+                "link": "https://t.me/ucanacademyofficial"
             }
         ],
         "dateSubmitted": "2024-10-20T12:08:29.106Z"
-    },
-    {
-        "firstName": "Eba Temesgen",
-        "applicationNumber": "UCA7711773",
-        "status": "Approved",
-        "letter": "Dear Eba Temesgen, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
-        "plan": "Basic",
-        "category": "Category-1",
-        "phone": "0932289470",
-        "telegramGroups": [
-            {
-                "name": "Category-1",
-                "link": "https://t.me/u_canacademy"
-            },
-            {
-                "name": "Exam-Practice-C1",
-                "link": "https://t.me/u_canacademy"
-            },
-            {
-                "name": "UCA-Quiz",
-                "link": "https://t.me/u_canacademy"
-            }
-        ],
-        "dateSubmitted": "2024-10-20T12:19:14.069Z"
-    },
-    {
-        "firstName": "Hayu",
-        "applicationNumber": "UCA071177",
-        "status": "Approved",
-        "letter": "Dear Hayu, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
-        "plan": "Basic",
-        "category": "Category-1",
-        "phone": "0932289470",
-        "telegramGroups": [
-            {
-                "name": "Category-1",
-                "link": "https://t.me/u_canacademy"
-            },
-            {
-                "name": "UCA-Quiz",
-                "link": "https://t.me/u_canacademy"
-            },
-            {
-                "name": "Exam-Practice-C1",
-                "link": "https://t.me/u_canacademy"
-            }
-        ],
-        "dateSubmitted": "2024-10-20T13:49:11.346Z"
-    },
-    {
-        "firstName": "Abdi",
-        "applicationNumber": "UCA0711777",
-        "status": "Approved",
-        "letter": "Dear Abdi, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
-        "plan": "Combined",
-        "category": "Both-Categories",
-        "phone": "0932289470",
-        "telegramGroups": [
-            {
-                "name": "Category-1",
-                "link": "https://t.me/u_canacademy"
-            },
-            {
-                "name": "UCA-Quiz",
-                "link": "https://t.me/u_canacademy"
-            },
-            {
-                "name": "Exam-Practice-C1",
-                "link": "https://t.me/u_canacademy"
-            },
-            {
-                "name": "Exam-Practice-C2",
-                "link": "https://t.me/u_canacademy"
-            }
-        ],
-        "dateSubmitted": "2024-10-20T14:16:47.891Z"
-    },
-    {
-        "firstName": "Jane",
-        "applicationNumber": "UCA0711743",
-        "status": "Pending",
-        "letter": "Dear Jane, Your application is currently under review. We will get back to you shortly with a decision.",
-        "plan": "Combined",
-        "category": "Both-Categories",
-        "phone": "0932289470",
-        "telegramGroups": [
-            {
-                "name": "Category-1",
-                "link": "https://t.me/u_canacademy"
-            },
-            {
-                "name": "UCA-Quiz",
-                "link": "https://t.me/u_canacademy"
-            },
-            {
-                "name": "Exam-Practice-C1",
-                "link": "https://t.me/u_canacademy"
-            },
-            {
-                "name": "Exam-Practice-C2",
-                "link": "https://t.me/u_canacademy"
-            }
-        ],
-        "dateSubmitted": "2024-10-20T14:36:52.444Z"
-    },
-    {
-        "firstName": "Jang",
-        "applicationNumber": "UCA0711000",
-        "status": "Rejected",
-        "letter": "Dear Jang, We regret to inform you that your application has been rejected. We wish you all the best in your future endeavors.",
-        "plan": "Combined",
-        "category": "Both-Categories",
-        "phone": "0932289470",
-        "telegramGroups": [
-            {
-                "name": "Category-1",
-                "link": "https://t.me/u_canacademy"
-            },
-            {
-                "name": "UCA-Quiz",
-                "link": "https://t.me/u_canacademy"
-            },
-            {
-                "name": "Exam-Practice-C1",
-                "link": "https://t.me/u_canacademy"
-            },
-            {
-                "name": "Exam-Practice-C2",
-                "link": "https://t.me/u_canacademy"
-            }
-        ],
-        "dateSubmitted": "2024-10-20T14:41:52.545Z"
-    },
-    {
-        "firstName": "Mecha",
-        "applicationNumber": "UCA110011",
-        "status": "Approved",
-        "letter": "Dear Mecha, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
-        "plan": "Combined",
-        "category": "Both-Categories",
-        "phone": "0961768848",
-        "telegramGroups": [
-            {
-                "name": "Category-1",
-                "link": "https://t.me/u_canacademy"
-            },
-            {
-                "name": "Exam-Practice-C1",
-                "link": "https://t.me/u_canacademy"
-            },
-            {
-                "name": "Category-2",
-                "link": "https://t.me/u_canacademy"
-            },
-            {
-                "name": "Exam-Practice-C2",
-                "link": "https://t.me/u_canacademy"
-            },
-            {
-                "name": "UCA-Quiz",
-                "link": "https://t.me/u_canacademy"
-            }
-        ],
-        "dateSubmitted": "2024-10-20T15:02:26.480Z"
-    },
-    {
-        "firstName": "Amanuel",
-        "applicationNumber": "UCA110022",
-        "status": "Approved",
-        "letter": "Dear Amanuel, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
-        "plan": "Combined",
-        "category": "Both-Categories",
-        "phone": "0961768848",
-        "telegramGroups": [
-            {
-                "name": "Category-1",
-                "link": "https://t.me/u_canacademy"
-            },
-            {
-                "name": "Exam-Practice-C1",
-                "link": "https://t.me/u_canacademy"
-            },
-            {
-                "name": "Category-2",
-                "link": "https://t.me/u_canacademy"
-            },
-            {
-                "name": "Exam-Practice-C2",
-                "link": "https://t.me/u_canacademy"
-            },
-            {
-                "name": "UCA-Quiz",
-                "link": "https://t.me/u_canacademy"
-            }
-        ],
-        "dateSubmitted": "2024-10-20T15:48:59.207Z"
-    },
-    {
-        "firstName": "Kali",
-        "applicationNumber": "UCA422169",
-        "status": "Approved",
-        "letter": "Dear Kali, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
-        "plan": "Basic",
-        "category": "Category-1",
-        "phone": "0932289470",
-        "telegramGroups": [
-            {
-                "name": "Category-1",
-                "link": "https://t.me/ucanacademy_freetrial"
-            },
-            {
-                "name": "Exam-Practice-C1",
-                "link": "https://t.me/ucanacademy_freetrial"
-            },
-            {
-                "name": "UCA-Quiz",
-                "link": "https://t.me/ucanacademy_freetrial"
-            }
-        ],
-        "dateSubmitted": "2024-10-23T14:49:43.710Z"
-    },
-    {
-        "firstName": "Guta",
-        "applicationNumber": "UCA123123",
-        "status": "Approved",
-        "letter": "Dear Guta, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
-        "plan": "Basic",
-        "category": "Category-1",
-        "phone": "0920878781",
-        "telegramGroups": [
-            {
-                "name": "Category-1",
-                "link": "https://t.me/ucanacademy_freetrial"
-            },
-            {
-                "name": "Exam-Practice-C1",
-                "link": "https://t.me/ucanacademy_freetrial"
-            },
-            {
-                "name": "UCA-Quiz",
-                "link": "https://t.me/ucanacademy_freetrial"
-            }
-        ],
-        "dateSubmitted": "2024-10-30T13:22:47.945Z"
-    },
-    {
-        "firstName": "Hayu",
-        "applicationNumber": "UCA266136",
-        "status": "Approved",
-        "letter": "Dear Hayu, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
-        "plan": "Basic",
-        "category": "Category-1",
-        "phone": "0989459226",
-        "telegramGroups": [
-            {
-                "name": "Category-1",
-                "link": "https://t.me/ucanacademyoffical"
-            },
-            {
-                "name": "Exam-Practice-C1",
-                "link": "https://t.me/ucanacademyoffical"
-            },
-            {
-                "name": "UCA-Quiz",
-                "link": "https://t.me/ucanacademyoffical"
-            }
-        ],
-        "dateSubmitted": "2024-11-03T08:32:32.943Z"
     },
     {
         "firstName": "Nuhamin",
@@ -359,7 +91,7 @@
         "firstName": "Gelila",
         "applicationNumber": "UCA66100010",
         "status": "Approved",
-        "letter": "Dear UCA66100010, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
+        "letter": "Dear Gelila, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
         "plan": "Combined",
         "category": "Both-Categories",
         "phone": "0942504494",
@@ -374,16 +106,5 @@
             }
         ],
         "dateSubmitted": "2024-11-29T08:31:14.167Z"
-    },
-    {
-        "firstName": "Mecha",
-        "applicationNumber": "UCA12312301",
-        "status": "Approved",
-        "letter": "Dear Mecha, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
-        "plan": "Basic",
-        "category": "Category-1",
-        "phone": "0961768848",
-        "telegramGroups": [],
-        "dateSubmitted": "2024-11-29T08:40:17.681Z"
     }
 ]
