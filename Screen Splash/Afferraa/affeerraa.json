@@ -130,5 +130,16 @@
             }
         ],
         "dateSubmitted": "2024-12-03T08:01:11.832Z"
+    },
+    {
+        "firstName": "YEROSAN",
+        "applicationNumber": "UCA72036169",
+        "status": "Rejected",
+        "letter": "Dear YEROSAN, We regret to inform you that your application has been rejected. We wish you all the best in your future endeavors.",
+        "plan": "Basic",
+        "category": "Category-1",
+        "phone": "0925632766",
+        "telegramGroups": [],
+        "dateSubmitted": "2024-12-11T07:44:31.367Z"
     }
 ]
