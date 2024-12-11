@@ -141,5 +141,25 @@
         "phone": "0926355541",
         "telegramGroups": [],
         "dateSubmitted": "2024-12-11T07:45:21.911Z"
+    },
+    {
+        "firstName": "Bersabeh",
+        "applicationNumber": "UCA57962760",
+        "status": "Approved",
+        "letter": "Dear Bersabeh, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
+        "plan": "Combined",
+        "category": "Both-Categories",
+        "phone": "0921797831",
+        "telegramGroups": [
+            {
+                "name": "Exam-Practice-C1",
+                "link": "https://t.me/+SI2ZDW6NGNY3YTc0"
+            },
+            {
+                "name": "Exam-Practice-C2",
+                "link": "https://t.me/+iRaWLNqqWBNjNGY0"
+            }
+        ],
+        "dateSubmitted": "2024-12-11T13:20:36.616Z"
     }
 ]
