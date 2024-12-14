@@ -28,6 +28,13 @@
         "coinImageSrc": "https://raw.githubusercontent.com/U-CAN-Academy/E-Learning/main/src/icon-and-logo/uca-icons/u-can%20coin.png"
     },
     {
+        "id": 6,
+        "title": "U-CAN Academy at Haramaya University",
+        "detailHeader": "Join the squad! Many Haramaya University students are joining U-CAN Academy!",
+        "imageSrc": "https://raw.githubusercontent.com/U-CAN-Academy/E-Learning/main/src/icon-and-logo/logos/haramaya.jpg",
+        "coinImageSrc": "https://raw.githubusercontent.com/U-CAN-Academy/E-Learning/main/src/icon-and-logo/uca-icons/u-can%20coin.png"
+    },
+    {
         "id": 4,
         "title": "U-CAN Academy at HEUC",
         "detailHeader": "Join the squad! Many HEUC students are joining U-CAN Academy!",
