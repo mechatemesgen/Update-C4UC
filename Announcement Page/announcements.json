@@ -21,6 +21,13 @@
         "coinImageSrc": "https://raw.githubusercontent.com/U-CAN-Academy/E-Learning/main/src/icon-and-logo/uca-icons/u-can%20coin.png"
     },
     {
+        "id": 5,
+        "title": "U-CAN Academy at Unity University",
+        "detailHeader": "Join the squad! Many Unity University students are joining U-CAN Academy!",
+        "imageSrc": "https://raw.githubusercontent.com/U-CAN-Academy/E-Learning/main/src/icon-and-logo/logos/Unity%20University%20Logo.jpg",
+        "coinImageSrc": "https://raw.githubusercontent.com/U-CAN-Academy/E-Learning/main/src/icon-and-logo/uca-icons/u-can%20coin.png"
+    },
+    {
         "id": 4,
         "title": "U-CAN Academy at HEUC",
         "detailHeader": "Join the squad! Many HEUC students are joining U-CAN Academy!",
