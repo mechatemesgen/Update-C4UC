@@ -125,7 +125,7 @@
     "steps": [],
     "goodLuckMessage": "Don’t keep this amazing opportunity to yourself spread the word! If you know any first-year university or college students who are eager to succeed and make the most of their studies, invite them to join U-CAN Academy.  Together, we can create a vibrant learning community where every student grows, learns, and achieves beyond expectations!  Share the link today and let’s make this academic journey unforgettable.  #U_CAN_Academy #Learn_Beyond_Expected #ShareTheOpportunity"
 },
-         {
+        {
     "id": 5,
     "title": "Unity University",
     "imageSrc": "https://raw.githubusercontent.com/U-CAN-Academy/E-Learning/main/src/icon-and-logo/logos/ASTU%20loooggg.png",
@@ -141,6 +141,31 @@
         {
             "type": "img",
             "src": "https://raw.githubusercontent.com/U-CAN-Academy/E-Learning/main/src/icon-and-logo/logos/Unity%20University%20Logo.jpg"
+        },
+        {
+            "type": "p",
+            "text": ""
+        }
+    ],
+    "steps": [],
+    "goodLuckMessage": "Don’t keep this amazing opportunity to yourself spread the word! If you know any first-year university or college students who are eager to succeed and make the most of their studies, invite them to join U-CAN Academy.  Together, we can create a vibrant learning community where every student grows, learns, and achieves beyond expectations!  Share the link today and let’s make this academic journey unforgettable.  #U_CAN_Academy #Learn_Beyond_Expected #ShareTheOpportunity"
+},
+         {
+    "id": 6,
+    "title": "Haramaya University",
+    "imageSrc": "https://raw.githubusercontent.com/U-CAN-Academy/E-Learning/main/src/icon-and-logo/logos/ASTU%20loooggg.png",
+    "content": [
+        {
+            "type": "h2",
+            "text": "Welcome, Haramaya University Students!"
+        },
+        {
+            "type": "p",
+            "text": "We’re thrilled to welcome you to the U-CAN Academy E-Learning Platform!  By joining us, you’ve shown your drive to grow and achieve more in your academic journey. At U-CAN Academy, we’re here to provide practical and engaging resources to support you every step of the way.  Thank you for making us a part of your learning experience. Together, U-CAN Learn Beyond Expected!  Here’s to your success and endless opportunities ahead!  #U_CAN_Academy #Learn_Beyond_Expected"
+        },
+        {
+            "type": "img",
+            "src": "https://raw.githubusercontent.com/U-CAN-Academy/E-Learning/main/src/icon-and-logo/logos/haramaya.jpg"
         },
         {
             "type": "p",
