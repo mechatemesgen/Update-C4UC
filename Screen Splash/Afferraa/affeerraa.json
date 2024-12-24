@@ -161,5 +161,25 @@
             }
         ],
         "dateSubmitted": "2024-12-11T13:20:36.616Z"
+    },
+    {
+        "firstName": "Dawit",
+        "applicationNumber": "UCA27962468",
+        "status": "Approved",
+        "letter": "Dear Dawit, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
+        "plan": "Basic",
+        "category": "Category-1",
+        "phone": "0904395284",
+        "telegramGroups": [
+            {
+                "name": "Exam-Practice-C1",
+                "link": "https://t.me/+6PC_KFArCDkzYTU0"
+            },
+            {
+                "name": "Category-1",
+                "link": "https://t.me/+N4WznBqi8_0yNzk0"
+            }
+        ],
+        "dateSubmitted": "2024-12-24T16:05:14.459Z"
     }
 ]
