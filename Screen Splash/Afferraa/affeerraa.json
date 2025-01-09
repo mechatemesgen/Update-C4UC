@@ -181,5 +181,25 @@
             }
         ],
         "dateSubmitted": "2024-12-24T16:05:14.459Z"
+    },
+    {
+        "firstName": "Zeynu",
+        "applicationNumber": "UCA26787923",
+        "status": "Approved",
+        "letter": "Dear Zeynu, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
+        "plan": "Combined",
+        "category": "Both-Categories",
+        "phone": "0978332888",
+        "telegramGroups": [
+            {
+                "name": "Exam-Practice-C1",
+                "link": "https://t.me/+dWPOF5aXfBA0ODhk"
+            },
+            {
+                "name": "Exam-Practice-C2",
+                "link": "https://t.me/+ogjKQlZlbP0zMDc0"
+            }
+        ],
+        "dateSubmitted": "2025-01-09T09:35:55.006Z"
     }
 ]
