@@ -201,5 +201,29 @@
             }
         ],
         "dateSubmitted": "2025-01-09T09:35:55.006Z"
+    },
+    {
+        "firstName": "Kidus",
+        "applicationNumber": "UCA78203176",
+        "status": "Approved",
+        "letter": "Dear Kidus, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
+        "plan": "Combined",
+        "category": "Both-Categories",
+        "phone": "0939637605",
+        "telegramGroups": [
+            {
+                "name": "Category-1",
+                "link": "https://t.me/+A2ptwDWlU9liMmNk"
+            },
+            {
+                "name": "Exam-Practice-C1",
+                "link": "https://t.me/+S6t563eTXYIxOTJk"
+            },
+            {
+                "name": "Exam-Practice-C2",
+                "link": "https://t.me/+UTPAkI9jXQtmNWZk"
+            }
+        ],
+        "dateSubmitted": "2025-01-14T18:44:20.006Z"
     }
 ]
