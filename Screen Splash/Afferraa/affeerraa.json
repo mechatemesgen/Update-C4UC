@@ -253,5 +253,25 @@
             }
         ],
         "dateSubmitted": "2025-02-09T11:54:47.811Z"
+    },
+    {
+        "firstName": "Alazar",
+        "applicationNumber": "UCA43610504",
+        "status": "Approved",
+        "letter": "Dear Alazar, Congratulations! Your application has been approved. We are pleased to invite you to join our institution.",
+        "plan": "Basic",
+        "category": "Category-2",
+        "phone": "0928175689",
+        "telegramGroups": [
+            {
+                "name": "Exam-Practice-C2",
+                "link": "https://t.me/+Poo4ne2SO2c0NzA8"
+            },
+            {
+                "name": "UCA-Quiz",
+                "link": "https://t.me/ucanacademy_freetrial"
+            }
+        ],
+        "dateSubmitted": "2025-02-14T06:02:47.037Z"
     }
 ]
